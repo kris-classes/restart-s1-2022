@@ -29,7 +29,7 @@
 * Brief history of Cloud Computing
 
 ### Day 2
-* Virtual Machines
+* Virtual Machines & Amazon Machine Images (AMIs)
 * Database Basics: Relation vs Non-Relational/NoSQL (Key-Value, Document/Object, Graph)
 * EC2 demonstration
 
