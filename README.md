@@ -20,6 +20,19 @@
 # Week 1
 * Topics covered will be added here.
 
+### Day 1
+* Basic Computing Concepts
+* Brief history of computing & operating systems
+* CPU / Central Processing Unit
+* RAM/Memory
+* Storage: Mechanical Hard Drives, Solid State Drives (SSD), Tape Storage, CD/DVD/BluRay
+* Brief history of Cloud Computing
+
+### Day 2
+* Virtual Machines
+* Database Basics: Relation vs Non-Relational/NoSQL (Key-Value, Document/Object, Graph)
+* EC2 demonstration
+
 # Week 2
 * Topics covered will be added here.
 
