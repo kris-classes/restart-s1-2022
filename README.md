@@ -31,7 +31,8 @@
 ### Day 2
 * Virtual Machines & Amazon Machine Images (AMIs)
 * Database Basics: Relation vs Non-Relational/NoSQL (Key-Value, Document/Object, Graph)
-* EC2 demonstration
+* EC2 Lab demonstration - Deploying a virtual machine
+* Shared Responsibility Model Basics
 
 # Week 2
 * Topics covered will be added here.
