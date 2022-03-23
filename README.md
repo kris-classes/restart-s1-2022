@@ -24,6 +24,7 @@
 * Basic Computing Concepts
 * Brief history of computing & operating systems
 * CPU / Central Processing Unit
+* [Moore's Law](https://upload.wikimedia.org/wikipedia/commons/0/00/Moore%27s_Law_Transistor_Count_1970-2020.png)
 * RAM/Memory
 * Storage: Mechanical Hard Drives, Solid State Drives (SSD), Tape Storage, CD/DVD/BluRay
 * Brief history of Cloud Computing
@@ -33,6 +34,15 @@
 * Database Basics: Relation vs Non-Relational/NoSQL (Key-Value, Document/Object, Graph)
 * EC2 Lab demonstration - Deploying a virtual machine
 * Shared Responsibility Model Basics
+* [StackShare](https://stackshare.io/)
+
+### Day 3
+* Amazon S3 Basics
+* Brief history of Internet (Phreaking, Dialup, ADSL, Fibre)
+* Brief history of World Wide Web, HTML, and using [archive.org](http://archive.org/)
+* Linux Basics: `cd`, `mkdir`, `pwd`, `ls`, `man`, `/bin directory`, running programs.
+* [Linux Directory Structure](https://linuxhandbook.com/linux-directory-structure/)
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 # Week 2
 * Topics covered will be added here.
