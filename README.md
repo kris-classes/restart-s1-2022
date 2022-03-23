@@ -7,6 +7,11 @@
 * Classes run from 9:45AM-3PM Mon-Thu and 10AM-2PM Fri.
 * Student Expectations: ~5 hours of lectures and ~3 hours of homework 5 days/week.
 
+# Supplementary Videos
+* [1963 Timesharing - How Computers Work](https://www.youtube.com/watch?v=Q07PhW5sCEk) - Still relevant
+* [1982 UNIX](https://www.youtube.com/watch?v=tc4ROCJYbm0) - See Brian Kernighan's demo @ 4:00. Also still relevant.
+* [Hackers: The History of Hacking](https://www.youtube.com/watch?v=FufYSx2_6Bg)
+
 # Core Topics
 * Career
 * Cloud Foundations
