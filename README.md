@@ -33,6 +33,7 @@
 * Database Basics: Relation vs Non-Relational/NoSQL (Key-Value, Document/Object, Graph)
 * EC2 Lab demonstration - Deploying a virtual machine
 * Shared Responsibility Model Basics
+* Memcached & Redis Basics (get/set): [Try Redis](https://try.redis.io/)
 * [StackShare](https://stackshare.io/)
 
 ### Day 3
