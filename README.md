@@ -42,7 +42,7 @@
 * Brief history of World Wide Web, HTML, and using [archive.org](http://archive.org/)
 * Linux Basics: `cd`, `mkdir`, `pwd`, `ls`, `man`, `/bin directory`, running programs.
 * [Linux Directory Structure](https://linuxhandbook.com/linux-directory-structure/)
-* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Bookmark this for use later in the course.
 
 # Week 2
 * Topics covered will be added here.
