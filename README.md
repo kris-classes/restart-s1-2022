@@ -18,7 +18,6 @@
 * Exam Preparation
 
 # Week 1
-* Topics covered will be added here.
 
 ### Day 1
 * Basic Computing Concepts
