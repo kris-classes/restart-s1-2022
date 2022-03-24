@@ -49,6 +49,19 @@
 * [Linux Directory Structure](https://linuxhandbook.com/linux-directory-structure/)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Bookmark this for use later in the course.
 
+### Day 4
+* AWS Compute Options: EC2, Lambda, ECS, and others.
+* [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor) vs [Containers](https://aws.amazon.com/getting-started/deep-dive-containers/)
+* Infrastructure as a Service (IaaS)
+* Platform as a Service (PaaS) - e.g. Heroku, ElasticBeanstalk
+* Software as a Service (SaaS)
+* Function as a Service (FaaS)
+* Continuous Integration / Continuous Deployment (CI/CD)
+* Infrastructure as Code (IaC) Basics
+* Application Programming Interfaces (APIs)
+* [RosettaCode](http://www.rosettacode.org/wiki/Hello_world/Text)
+* Installing `python3` with `sudo yum install python3`
+
 # Week 2
 * Topics covered will be added here.
 
