@@ -12,6 +12,10 @@
 * [1982 UNIX](https://www.youtube.com/watch?v=tc4ROCJYbm0) - See Brian Kernighan's demo @ 4:00. Also still relevant.
 * [Hackers: The History of Hacking](https://www.youtube.com/watch?v=FufYSx2_6Bg)
 
+* [Socratica - Python Tutorial](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
+* [TechWithTim - The Complete Python Course for Beginners](https://www.youtube.com/watch?v=sxTmJE4k0ho)
+
+
 # Core Topics
 * Career
 * Cloud Foundations
