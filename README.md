@@ -66,8 +66,17 @@
 * [RosettaCode](http://www.rosettacode.org/wiki/Hello_world/Text)
 * Installing `python3` with `sudo yum install python3`
 
+### Day 5
+* To be added by Nick
+* More Python
+
 # Week 2
-* Topics covered will be added here.
+### Day 1
+* Python: Lists `my_list = [1, "hello", 3.14]`, Tuples `my_tuple = (4, "blah", 1.23)`
+* Functions (`def my_function():`)
+* Conditionals (`if`/`else`/`elif`)
+* Comments (`#`)
+* Debugging: Breakpoints, Stepping, Inspecting values
 
 # Week 3
 * Topics covered will be added here.
