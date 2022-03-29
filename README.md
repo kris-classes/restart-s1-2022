@@ -82,11 +82,20 @@
 * Python Dictionaries `my_dictionaries = {"innovation": "something new"}`
 * Python Boolean type `my_bool = True | False`
 * Nested data types: Lists within Dictionary, Dictionaries within List, Lists within List (2D array)
-* Local vs. Global scopes
-* Classes - basic blueprint, can comprise of other Class, and inherit properties of other Class
-* AI brief introduction - Tensorflow, Keras, PyTouch
-* Sets operation, Union of Sets
-* Lists methods
+* Using `pip`
+* [awesome-python](https://github.com/vinta/awesome-python) - List of popular Python packages
+* Using `pylint`
+* Local vs. Global scope
+* Classes (basics - grouping of data and functions/methods)
+* Interpreted programming languages vs compiled programming languages
+* AI brief introduction - Tensorflow, Keras, PyTorch
+* Sets `my_set = {1, 3, 'hello', 3, 5}`, Intersection and Union methods
+* List slices & some methods (append, insert)
+
+* [Keybr.com](https://www.keybr.com/) - Learn to touch type & speed up your typing.
+
+### Day 3
+* To be added
 
 # Week 3
 * Topics covered will be added here.
