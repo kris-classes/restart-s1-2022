@@ -78,6 +78,16 @@
 * Comments (`#`)
 * Debugging: Breakpoints, Stepping, Inspecting values
 
+### Day 2
+* Python Dictionaries `my_dictionaries = {"innovation": "something new"}`
+* Python Boolean type `my_bool = True | False`
+* Nested data types: Lists within Dictionary, Dictionaries within List, Lists within List (2D array)
+* Local vs. Global scopes
+* Classes - basic blueprint, can comprise of other Class, and inherit properties of other Class
+* AI brief introduction - Tensorflow, Keras, PyTouch
+* Sets operation, Union of Sets
+* Lists methods
+
 # Week 3
 * Topics covered will be added here.
 
