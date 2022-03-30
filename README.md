@@ -95,7 +95,16 @@
 * [Keybr.com](https://www.keybr.com/) - Learn to touch type & speed up your typing.
 
 ### Day 3
-* To be added
+* Python conditionals: `if`, `elif`, `else`
+* Exceptions, custom exceptions with `raise`, `try`, `except`, `else`, `finally`
+* Combine exception handling with functions and `return`
+* `assert` and raising `AssertionError`
+* [Sentry](https://sentry.io) for error tracking
+* Create / `import` modules in Python
+* Using `pytest` and `assert` statement for software testing.
+* Continuous Integration providers: Travis-CI, CircleCI
+* [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development) basics: Standups, Kanban, Sprints, [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))
+* GitHub platform in depth: Forking, Pull requests, Topics, Issue tracking, Project Management, Contributors / Bus Factor, etc
 
 # Week 3
 * Topics covered will be added here.
