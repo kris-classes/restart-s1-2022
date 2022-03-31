@@ -106,6 +106,17 @@
 * [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development) basics: Standups, Kanban, Sprints, [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))
 * GitHub platform in depth: Forking, Pull requests, Topics, Issue tracking, Project Management, Contributors / Bus Factor, etc
 
+### Day 4
+* Using loops (`while`, `for`, `range`, `enumerate`)
+* List comprehensions aka easily making a list from an iterable.
+* Looping through dictionaries using `.keys()`, `.values()`, and `.items()`.
+* Printing with `f-strings`
+* More testing with `pytest`
+* More on using modules
+* [Entry point](https://en.wikipedia.org/wiki/Entry_point)
+* Python's `in` keyword (`'b' in ['a', 'b', 'c']`, and in `for` loops)
+* Using `turtle` for small visualizations and understanding loops
+
 # Week 3
 * Topics covered will be added here.
 
