@@ -117,8 +117,15 @@
 * Python's `in` keyword (`'b' in ['a', 'b', 'c']`, and in `for` loops)
 * Using `turtle` for small visualizations and understanding loops
 
+### Day 5
+* To be added by Nick
+
 # Week 3
-* Topics covered will be added here.
+### Day 1
+* Kernel / Daemons
+* Python Revision
+* Command Line Revision
+* Git Revision
 
 # Week 4
 * Topics covered will be added here.
