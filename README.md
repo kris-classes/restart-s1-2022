@@ -118,7 +118,19 @@
 * Using `turtle` for small visualizations and understanding loops
 
 ### Day 5
-* To be added by Nick
+* How git is used for teams of software engineers to collaborate
+* How to create a Github repo, also called a `remote` repository
+* `git clone` from `remote` repository
+* `git init`
+* `git add remote` if there isn't `remote` repository linked already
+* see status of staged and unstaged changes with `git status`
+* view git history with `git log`
+* `git commit`
+* `git branch`
+* `git checkout`
+* `git pull` from `remote` repository
+* `git push` from local to `remote` repository
+* rewrite git history, squash N number of commits history with `git rebase -i HEAD~N`
 
 # Week 3
 ### Day 1
