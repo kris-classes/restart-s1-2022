@@ -139,6 +139,18 @@
 * Command Line Revision
 * Git Revision
 
+### Day 2
+* Linux Basics Revision
+* `which`, `alias`, `unalias`, `export`, `env`, `less`, `sudo !!`
+* `PATH`, accessing environment variables e.g. `$HOME` and setting `PATH`. 
+* `/proc` basics
+* Processes & Process ID's
+* Job control basics: `Ctrl-Z`, `bg`, `fg`, Running a task in the background with `&`
+* `strace` basics & system calls (syscalls) overview/purpose
+* File Descriptors and `/proc/<process_id>/fd/`, `stdin`, `stdout`, `stderr` - More on these later.
+* tmux Basics: Prefix key (`Ctrl-B`), Vsplit `%`, Hsplit `"`, New window `c`, Next window `n`, Previous window `p`, Switching panes `arrow keys`
+* Types of interprocess communication: [Wikipedia - Inter-process Communication](https://en.wikipedia.org/wiki/Inter-process_communication)
+
 # Week 4
 * Topics covered will be added here.
 
