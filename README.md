@@ -67,8 +67,11 @@
 * Installing `python3` with `sudo yum install python3`
 
 ### Day 5
-* To be added by Nick
-* More Python
+* Personal branding workshop
+* Python String data type `str`
+* Python Numerics data types `int`, `float`
+* Print to console `print()`
+* Takes input from console `input()`
 
 # Week 2
 ### Day 1
@@ -141,6 +144,8 @@
 
 ### Day 2
 * Linux Basics Revision
+* Linux GUI vs CLI
+* Continuous Integration, Continuous Delivery, Continuous Deployment concepts
 * `which`, `alias`, `unalias`, `export`, `env`, `less`, `sudo !!`
 * `PATH`, accessing environment variables e.g. `$HOME` and setting `PATH`. 
 * `/proc` basics
