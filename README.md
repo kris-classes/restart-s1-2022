@@ -165,6 +165,7 @@
 * Binary ([ELF](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)) vs Text ([Shell script](https://en.wikipedia.org/wiki/Shell_script)) and `#!` at the top of scripts.
 * Using `time.sleep(30)` in Python and the `nanosleep()` syscall.
 * Created a simple shell script
+* [awesome-shell](https://github.com/alebcay/awesome-shell) - List of great programs
 
 # Week 4
 * Topics covered will be added here.
