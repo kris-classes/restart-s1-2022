@@ -146,8 +146,8 @@
 * Linux Basics Revision
 * Linux GUI vs CLI
 * Continuous Integration, Continuous Delivery, Continuous Deployment concepts
-* `which`, `alias`, `unalias`, `export`, `env`, `less`, `sudo !!`
-* `PATH`, accessing environment variables e.g. `$HOME` and setting `PATH`. 
+* `which`, `alias`, `unalias`, `export`, `unset`, `env`, `less`, `sudo !!`, `cat`, `sleep`
+* `PATH`, accessing environment variables e.g. `$HOME` and setting `PATH`, `.bashrc` basics. 
 * `/proc` basics
 * Processes & Process ID's
 * Job control basics: `Ctrl-Z`, `bg`, `fg`, Running a task in the background with `&`
@@ -155,6 +155,16 @@
 * File Descriptors and `/proc/<process_id>/fd/`, `stdin`, `stdout`, `stderr` - More on these later.
 * tmux Basics: Prefix key (`Ctrl-B`), Vsplit `%`, Hsplit `"`, New window `c`, Next window `n`, Previous window `p`, Switching panes `arrow keys`
 * Types of interprocess communication: [Wikipedia - Inter-process Communication](https://en.wikipedia.org/wiki/Inter-process_communication)
+
+### Day 3
+* More Linux: `head`, `tail`, `file`, Symbolic Links (symlinks), Permission basics: `chmod +x` (so far)
+* `/etc/passwd`
+* `chsh`, `/etc/shells` and different shell examples (`zsh`, `fish`)
+* `gcc` (aka `cc`) and compiling simple C programs
+* `/lib` directory, shared objects (`.so` and equivalent `.dll` files)
+* Binary ([ELF](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)) vs Text ([Shell script](https://en.wikipedia.org/wiki/Shell_script)) and `#!` at the top of scripts.
+* Using `time.sleep(30)` in Python and the `nanosleep()` syscall.
+* Created a simple shell script
 
 # Week 4
 * Topics covered will be added here.
