@@ -167,6 +167,14 @@
 * Created a simple shell script
 * [awesome-shell](https://github.com/alebcay/awesome-shell) - List of great programs
 
+### Day 4
+* Linux `cd`, `pwd`, `ls *` (list all files in nested folders) vs. `ls`
+* `cp`, `mv`, `mkdir`, `nano`
+* Python `argsparser` to run Python program with customizable input
+* Makefile, and Makefile command with input
+* Makefile command shortcut to run Python program with customizable input
+* Explained on a high level what API is, and most common API command `GET`, `POST`, `PUT`, `DELETE`
+
 # Week 4
 * Topics covered will be added here.
 
