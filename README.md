@@ -181,9 +181,11 @@
 * [LinuxJourney.com](https://linuxjourney.com/) - Thanks Ben
 * [Bash Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh) - Plan to learn these during your career
 
+Optional vim stuff:
 * [Vim Adventures](https://vim-adventures.com/) - Thanks Jarryd
 * [VSCode Vim Plugin](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Optional
 * [VSCode Learn Vim Plugin](https://marketplace.visualstudio.com/items?itemName=vintharas.learn-vim) - Also optional
+* [Advanced vim cheatsheet](https://vim.rtorr.com/) - Bookmark for later in your career if you decide to use vim.
 
 # Week 4
 * Topics covered will be added here.
