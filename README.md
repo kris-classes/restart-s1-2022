@@ -175,9 +175,12 @@
 * Makefile command shortcut to run Python program with customizable input
 * Explained on a high level what API is, and most common API command `GET`, `POST`, `PUT`, `DELETE`
 * More Linux: `useradd`, `groupadd`, `sudo su -`, `/etc/sudoers`, `/etc/passwd`, `/etc/group`, `/etc/shadow`, `vipw`, `vigr`, and `vipw -s` (don't edit these files directly)
+* `!!`, `!$`, `history` and `!<n>`
+* More Bash scripting & handling arguments (`$1`, `$2`, etc in Bash & `sys.argv` in Python)
 * Linux permissions: [`chmod`](https://chmod-calculator.com/), `ugo+rwx` (symbolic), `421` (numeric), output of `ls -al`
 * [LinuxJourney.com](https://linuxjourney.com/) - Thanks Ben
 * [Bash Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh) - Plan to learn these during your career
+
 * [Vim Adventures](https://vim-adventures.com/) - Thanks Jarryd
 * [VSCode Vim Plugin](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Optional
 * [VSCode Learn Vim Plugin](https://marketplace.visualstudio.com/items?itemName=vintharas.learn-vim) - Also optional
