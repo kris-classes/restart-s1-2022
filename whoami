@@ -1,5 +1,6 @@
 #!/bin/bash
-# Whoami | Coded by Ömer Doğan 
+# Whoami | Coded by Not Me - Owerdogan, github project below
+# https://github.com/owerdogan/whoami-project
 
 #check source files
 source /usr/share/kali-whoami/assets/sources/config 2> /dev/null || { clear;echo -e "\e[31m [-] FATAL ERROR: MAIN CONFIG COULD NOT BE SOURCED!\e[0m";exit 1;}
