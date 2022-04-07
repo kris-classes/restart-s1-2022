@@ -2,7 +2,7 @@
 # Whoami | Coded by Not Me - Owerdogan, github project below
 # https://github.com/owerdogan/whoami-project
 
-#Will work on Debian based distributions NOT Centos (Red-Hat based distribution)
+#Will work on Debian based distributions, hasn't been tested on AWS Centos (Red-Hat based distribution)
 
 #check source files
 source /usr/share/kali-whoami/assets/sources/config 2> /dev/null || { clear;echo -e "\e[31m [-] FATAL ERROR: MAIN CONFIG COULD NOT BE SOURCED!\e[0m";exit 1;}
