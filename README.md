@@ -177,7 +177,7 @@
 * More Linux: `useradd`, `groupadd`, `sudo su -`, `/etc/sudoers`, `/etc/passwd`, `/etc/group`, `/etc/shadow`, `vipw`, `vigr`, and `vipw -s` (don't edit these files directly)
 * `!!`, `!$`, `history` and `!<n>`
 * More Bash scripting & handling arguments (`$1`, `$2`, etc in Bash & `sys.argv` in Python)
-* Linux permissions: [`chmod`](https://chmod-calculator.com/), `ugo+rwx` (symbolic), `421` (numeric), output of `ls -al`
+* Linux permissions: [chmod codes cheat sheet](https://gist.github.com/juanarbol/c44e736be70279c1fd5d68aa24f9d8be), `ugo+rwx` (symbolic), `421` (numeric), output of `ls -al`
 * [LinuxJourney.com](https://linuxjourney.com/) - Thanks Ben
 * [Bash Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh) - Plan to learn these during your career
 
