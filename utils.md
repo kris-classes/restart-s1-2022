@@ -8,4 +8,5 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Matthew Reynolds. The 3 utils are 'googlr', 'gitmux' and 'nnn'
 * Kumar . The 3 utils are bmon, exa and isitup
 * Soul - ranger, mpv & cmus (if can get working)
+* Joe Zhu. image-scraper, imgp and tiv（the last one is not in the list but it's cool）
 * Another goes here. etc.
