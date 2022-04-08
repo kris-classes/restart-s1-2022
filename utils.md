@@ -7,5 +7,5 @@ Each group chooses their top 3 utils and talks about them to the class.
 
 * Matthew Reynolds. The 3 utils are 'googlr', 'gitmux' and 'nnn'
 * Kumar . The 3 utils are bmon, exa and isitup
-* Another goes here. etc.
 * Soul - ranger, mpv & cmus (if can get working)
+* Another goes here. etc.
