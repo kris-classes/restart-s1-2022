@@ -10,4 +10,5 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Soul - ranger, mpv & cmus (if can get working)
 * Joe Zhu. image-scraper, imgp and tiv（the last one is not in the list but it's cool）
 * Asimina - bpkg, cointop, emojify.
+* Nisheeth - glances, eureka, surfraw
 * Another goes here. etc. ( Move me a line below, after adding your name )
