@@ -187,6 +187,20 @@ Optional vim stuff:
 * [VSCode Learn Vim Plugin](https://marketplace.visualstudio.com/items?itemName=vintharas.learn-vim) - Also optional
 * [Advanced vim cheatsheet](https://vim.rtorr.com/) - Bookmark for later in your career if you decide to use vim.
 
+### Day 5
+* CV workshops
+* Flows and conditions with Linux bash scripting: `if else elif`, `for loop with {1..N}`, `for loop with StringArray()`, `case`, `conditions []`
+
+Other resources for interview preps:
+* Algorithm coding interview: https://leetcode.com/
+* All topics in Tech interview: https://interviewing.io/
+* General programming interview, not algorithm heavy: https://exercism.org/ 
+* System design interview: https://github.com/donnemartin/system-design-primer
+
+Book recommendations:
+* https://www.amazon.com/System-Design-Interview-Insiders-Guide-ebook/dp/B08B3FWYBX
+* https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119
+
 # Week 4
 * Topics covered will be added here.
 
