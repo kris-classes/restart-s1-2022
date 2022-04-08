@@ -7,4 +7,4 @@ Each group chooses their top 3 utils and talks about them to the class.
 
 * Matthew Reynolds. The 3 utils are 'googlr', 'gitmux' and 'nnn'
 * Another goes here. etc.
-* Kumar . The 3 utils are bmon, exa and 
+* Kumar . The 3 utils are bmon, exa and isitup
