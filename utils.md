@@ -5,5 +5,5 @@ Each group chooses their top 3 utils and talks about them to the class.
 
 ### Add your name below and the 3 utilities you'll be presenting.
 
-* Matthew Reynolds, googlr, gitmux, nnn
+* Matthew Reynolds. The 3 utils are 'googlr', 'gitmux' and 'nnn'
 * Another goes here. etc.
