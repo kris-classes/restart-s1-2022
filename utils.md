@@ -13,4 +13,5 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Nisheeth - glances, eureka, surfraw
 * Ben Browning - aliasme, gittifly, cloc
 * Xinpeng Yang - prettyping, taskbook, wttr.in
+* Jarryd Walker - RTV, ledger, sexy-bash-prompt
 * Another goes here. etc. ( Move me a line below, after adding your name )
