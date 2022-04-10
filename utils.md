@@ -5,7 +5,7 @@ Each group chooses their top 3 utils and talks about them to the class.
 
 ### Add your name below and the 3 utilities you'll be presenting.
 
-* Matthew Reynolds. The 3 utils are 'googlr' not an ELF file and couldn't get it to work - swapped to 'atop', 'gitmux' and 'nnn'
+* Matthew Reynolds. 'googlr' is not an ELF file and couldn't get it to work - The 3 utils are 'atop', 'gitmux' and 'nnn'
 * Kumar . The 3 utils are bmon, fd and isitup
 * Soul - ranger, mpv & mpd (if can get working)
 * Joe Zhu. image-scraper, imgp and tiv（the last one is not in the list but it's cool）
@@ -25,6 +25,6 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Allan - exa, taskwarrior, saws
 * Tahseena - shml, (adding more)
 * John Simmons - shell_history, tldr, jump
-* Another goes here.  Move down a line when finished
 + Wiremu - Cointop , haxor news, Whoami & Whereami
 * Andy Leung - awsm.fish, awesome-finder, zulu
+* Another goes here.  Move down a line when finished
