@@ -9,7 +9,7 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Kumar . The 3 utils are bmon, fd and isitup
 * Soul - ranger, mpv & cmus (if can get working)
 * Joe Zhu. image-scraper, imgp and tiv（the last one is not in the list but it's cool）
-* Asimina - bpkg, cointop, emojify.
+* Asimina - bpkg, cointop, has.
 * Nisheeth - glances, eureka, surfraw
 * Ben Browning - aliasme, gittifly, cloc
 * Xinpeng Yang - prettyping, taskbook, wttr.in
