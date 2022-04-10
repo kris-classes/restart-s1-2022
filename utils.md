@@ -24,7 +24,7 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Maria - rebound, bitwise, tty-solitaire
 * Allan - exa, taskwarrior, saws
 * Tahseena - shml, (adding more)
-* John Simmons - shell_history, tldr, jump
+* John - shell_history, tldr, jump (Having some issues.  We'll ge there)
 + Wiremu - Cointop , haxor news, Whoami & Whereami
 * Andy Leung - awsm.fish, awesome-finder, zulu
 * Another goes here.  Move down a line when finished
