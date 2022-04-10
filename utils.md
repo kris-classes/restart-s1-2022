@@ -15,4 +15,5 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Xinpeng Yang - prettyping, taskbook, wttr.in
 * Jarryd Walker - RTV, ledger, sexy-bash-prompt
 * Michael Johnson - prettyping, gogh, critic
+* Micheal Levae - how2, gitmux, xiki
 * Another goes here. etc. ( Move me a line below, after adding your name )
