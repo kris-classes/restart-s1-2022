@@ -13,7 +13,7 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Nisheeth - glances, eureka, surfraw
 * Ben Browning - aliasme, gittifly, cloc
 * Xinpeng Yang - prettyping, taskbook, wttr.in
-* Jarryd Walker - RTV, ledger, sexy-bash-prompt
+* Jarryd Walker - ticker, ledger, sexy-bash-prompt
 * Michael Johnson - prettyping, gogh, critic
 * Micheal Levae - how2, progress
 * Matthew Klemick - iponmap, whereami, minesweeper
