@@ -18,6 +18,6 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Micheal Levae - how2, progress
 * Matthew Klemick - iponmap, whereami, minesweeper
 * Lou - bat, ls++
-* Eden - Sudocabulary, sl, cmatrix (might change these...)
+* Eden - Sudocabulary, cmatrix (might change these...)
 * Heaven_Leigh ("ccat , tiptop ,nmtui") going to try :-)
 * Another goes here. etc. ( Move me a line below, after adding your name )
