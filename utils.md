@@ -17,7 +17,7 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Michael Johnson - prettyping, gogh, critic
 * Micheal Levae - how2, progress
 * Matthew Klemick - iponmap, whereami, minesweeper
-* Lou - bat, ls++
+* Lou - bat, maza, ls++
 * Eden - Sudocabulary, cmatrix, jump (might change these...)
 * Heaven_Leigh ("ccat , tiptop ,nmtui") going to try :-)
 * Alice - youtube-dl, kanban, wego + (pprint if its ok :D )
