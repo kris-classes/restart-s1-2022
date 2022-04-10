@@ -21,4 +21,5 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Eden - Sudocabulary, cmatrix, jump (might change these...)
 * Heaven_Leigh ("ccat , tiptop ,nmtui") going to try :-)
 * Alice - youtube-dl, kanban, wego + (pprint if its ok :D )
+* Maria - rebound, bitwise, tty-solitaire
 * Another goes here. etc. ( Move me a line below, after adding your name )
