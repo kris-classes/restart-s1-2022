@@ -27,3 +27,4 @@ Each group chooses their top 3 utils and talks about them to the class.
 * John Simmons - shell_history, tldr, jump
 * Another goes here.  Move down a line when finished
 + Wiremu - Cointop , haxor news, Whoami & Whereami
+* Andy Leung - awsm.fish, awesome-finder, zulu
