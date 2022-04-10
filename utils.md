@@ -15,7 +15,7 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Xinpeng Yang - prettyping, taskbook, wttr.in
 * Jarryd Walker - ticker, ledger, sexy-bash-prompt
 * Michael Johnson - prettyping, gogh, critic
-* Micheal Levae - how2, has, 
+* Micheal Levae - how2, has, wikit (wasnt on the list, still cool tho lol)
 * Matthew Klemick - iponmap, whereami, minesweeper
 * Lou - bat, maza, ls++
 * Eden - Sudocabulary, cmatrix, jump (might change these...)
