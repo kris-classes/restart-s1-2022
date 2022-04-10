@@ -26,3 +26,4 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Tahseena - shml, (adding more)
 * John Simmons - shell_history, tldr, jump
 * Another goes here.  Move down a line when finished
++ Wiremu - Cointop , haxor news, Whoami & Whereami
