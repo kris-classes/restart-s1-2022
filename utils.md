@@ -24,4 +24,4 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Maria - rebound, bitwise, tty-solitaire
 * Allan - exa, taskwarrior, saws
 * Tahseena - shml, (adding more)
-* Another goes here. etc. ( Move me a line below, after adding your name )
+* John Simmons - shell_history, tldr, jump
