@@ -26,7 +26,7 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Tahseena - shml, (adding more)
 * John - shell_history, tldr, jump (Having some issues.  We'll ge there)
 + Wiremu - Cointop , haxor news, Whoami & Whereami
-* Andy Leung - awsm.fish, awesome-finder, zulu
+* Andy Leung - awsm.fish, tiptop, zulu
 * Robbie Erkes - youtube-dl, wttr.in, 
 * Nick C - Rtv, piu-piu, will add more
 * allison - ansiweather, fzf, navi
