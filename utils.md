@@ -31,4 +31,5 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Nick C - Rtv, piu-piu, will add more
 * allison - ansiweather, fzf, navi
 * SHeLDoN - Arkanoid/Sokoban, Desk, Gifgen
+* Lewis - speedtest-cli, htop, youtube-dl, bpytop
 * Another goes here.  Move down a line when finished
