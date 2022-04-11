@@ -28,6 +28,6 @@ Each group chooses their top 3 utils and talks about them to the class.
 + Wiremu - Cointop , haxor news, Whoami & Whereami
 * Andy Leung - awsm.fish, awesome-finder, zulu
 * Robbie Erkes - youtube-dl, wttr.in, 
-* Nick C - Rtv, will add more
+* Nick C - Rtv, piu-piu, will add more
 * allison - ansiweather, fzf, navi
 * Another goes here.  Move down a line when finished
