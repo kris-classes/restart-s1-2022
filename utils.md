@@ -29,5 +29,5 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Andy Leung - awsm.fish, awesome-finder, zulu
 * Robbie Erkes - youtube-dl, wttr.in, 
 * Nick C - Rtv, will add more
-* allison - ansiweather, ...
+* allison - ansiweather, fzf, navi
 * Another goes here.  Move down a line when finished
