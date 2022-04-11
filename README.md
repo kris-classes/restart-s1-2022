@@ -202,6 +202,8 @@ Book recommendations:
 * https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119
 
 # Week 4
+
+### Day 1
 * Revision
 * More on containerization vs virtualization.
 * Architecture Basics: ARM vs x86 / x64 (aka amd64 or x86_64)
@@ -218,6 +220,16 @@ Book recommendations:
 * Installing Go (see office hours recording) and extracting compressed files with `tar`.
 * Installing Rust (also office hours)
 
+[Software Engineering advices](https://www.amazon.com/gp/product/B073X6GNJ1/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1):
+* Keep many CVs
+* [Job tracking pipeline](https://enhancv.com/)
+* [Learning plan](https://roadmap.sh/)
+* [Manage learning pipeline](asana.com)
+* Career progression (the technical track & the management track)
+* Negotiation (pay, parking or gym perks, more WFH days, learning and certification stipends...)
+* [Keeping and building a code snippet library](gist.github.com/) - curated pieces of code for Python, Bash...
+
+### Day 5
 * Friday: Good Friday (No class)
 
 # Week 5
