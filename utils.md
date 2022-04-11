@@ -30,4 +30,5 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Robbie Erkes - youtube-dl, wttr.in, 
 * Nick C - Rtv, piu-piu, will add more
 * allison - ansiweather, fzf, navi
+* SHeLDoN - Arkanoid/Sokoban,
 * Another goes here.  Move down a line when finished
