@@ -213,6 +213,7 @@ Book recommendations:
 * Joe: `image-scraper`, `imgp`, `tiv`, and cool mod to Alice's pokemon guesser game
 * Asimina: `cointop`, `has`
 * Michael J: `prettyping`, `gogh` & debugging shell scripts
+* Custom tmux configuration with [.tmux](https://github.com/gpakosz/.tmux)
 * Installing Python 3.10 from source and using `grep`.
 * Installing Go (see office hours recording) and extracting compressed files with `tar`.
 * Installing Rust (also office hours)
