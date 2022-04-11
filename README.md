@@ -202,7 +202,20 @@ Book recommendations:
 * https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119
 
 # Week 4
-* Topics covered will be added here.
+* Revision
+* More on containerization vs virtualization.
+* Architecture Basics: ARM vs x86 / x64 (aka amd64 or x86_64)
+* Virtualbox Snapshots & Amazon Machine Images
+* Demos/Presentations of useful utilities
+* Debugging a non-ELF binary named `googlr` (created in Swift)
+* Matthew: `atop`, `gitmux`, `nnn`
+* [Dotfiles](https://dotfiles.github.io/) - Configure your own setups.
+* Joe: `image-scraper`, `imgp`, `tiv`, and cool mod to Alice's pokemon guesser game
+* Asimina: `cointop`, `has`
+* Michael J: `prettyping`, `gogh` & debugging shell scripts
+* Installing Python 3.10 from source and using `grep`.
+* Installing Go (see office hours recording) and extracting compressed files with `tar`.
+* Installing Rust (also office hours)
 
 * Friday: Good Friday (No class)
 
