@@ -3,7 +3,7 @@
 
 VERSION=1.18
 SHELL_PATH=$(echo $SHELL)  # These parentheses $( ) will run a command and use its output
-SHELL_NAME=$(echo $SHELL | cut -d/ -f3)  # This changes '/bin/bash' to just 'bash'
+SHELL_NAME=$(echo $SHELL_PATH | cut -d/ -f3)  # This changes '/bin/bash' to just 'bash'
 
 echo "Downloading go ${VERSION}"  # whereas these braces ${ } will show a variable valie
 echo "Shell is: ${SHELL}"
