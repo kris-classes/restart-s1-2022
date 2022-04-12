@@ -240,7 +240,7 @@ Book recommendations:
 * Connection vs. Connectionless (session-less) protocol
 * Binary & Hexadecimal - [Hexadecimal to Binary - Organic Chemistry Tutor](https://www.youtube.com/watch?v=D_YC6DSPpQE)
 * [Endianness - Wikipedia](https://en.wikipedia.org/wiki/Endianness) - [Endianness - Computerphile](https://www.youtube.com/watch?v=NcaiHcBvDR4)
-* Hex Editors: [HxD - Windows](https://mh-nexus.de/en/hxd/), [Hexinator - Linux](https://hexinator.com/hexinator-linux/), [HexFiend - MacOS](https://hexfiend.com/]
+* Hex Editors: [HxD - Windows](https://mh-nexus.de/en/hxd/), [Hexinator - Linux](https://hexinator.com/hexinator-linux/), [HexFiend - MacOS](https://hexfiend.com/)
 * [ASCII](https://www.ascii-code.com/)
 * IPv4 Addresses
 * Ports - [List of common port numbers](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
