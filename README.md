@@ -229,6 +229,16 @@ Book recommendations:
 * Negotiation (pay, parking or gym perks, more WFH days, learning and certification stipends...)
 * [Keeping and building a code snippet library](gist.github.com/) - curated pieces of code for Python, Bash...
 
+### Day 2
+
+* Router, Switch vs. Hub
+* LAN vs. WAN
+* IP vs. MAC
+* Client Server vs. Peer to Peer
+* Bus, Star, Mesh topologies and how you can go hybrid
+* Introduce network layers, highlight layer 4 and layer 7
+* Connection vs. Connectionless (session-less) protocol
+
 ### Day 5
 * Friday: Good Friday (No class)
 
