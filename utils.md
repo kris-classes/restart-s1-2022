@@ -26,7 +26,7 @@ Each group chooses their top 3 utils and talks about them to the class.
 * John - shell_history, tldr, jump (Having some issues.  We'll ge there)
 + Wiremu - Cointop , haxor news, Whoami & Whereami
 * Andy Leung - Piu-piu further, tiptop, shallow-backup
-* Robbie Erkes - youtube-dl, wttr.in, 
+* Robbie Erkes - youtube-dl, wttr.in, synth-shell
 * Nick C - Buku, Rtv, piu-piu, progress
 * allison - ansiweather, fzf, navi
 * SHeLDoN - Arkanoid/Sokoban, Desk, Gifgen
