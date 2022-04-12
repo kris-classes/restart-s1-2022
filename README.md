@@ -224,7 +224,7 @@ Book recommendations:
 * Keep many CVs
 * [Job tracking pipeline](https://enhancv.com/)
 * [Learning plan](https://roadmap.sh/)
-* [Manage learning pipeline](asana.com)
+* [Manage learning pipeline](https://asana.com)
 * Career progression (the technical track & the management track)
 * Negotiation (pay, parking or gym perks, more WFH days, learning and certification stipends...)
 * [Keeping and building a code snippet library](gist.github.com/) - curated pieces of code for Python, Bash...
@@ -236,7 +236,7 @@ Book recommendations:
 * IP vs. MAC
 * Client Server vs. Peer to Peer
 * Bus, Star, Mesh topologies and how you can go hybrid
-* Introduce network layers, highlight layer 4 and layer 7
+* Introduce network layers, highlight layer 4 (TCP and UDP) and layer 7 (HTTP)
 * Connection vs. Connectionless (session-less) protocol
 
 ### Day 5
