@@ -227,7 +227,7 @@ Book recommendations:
 * [Manage learning pipeline](https://asana.com)
 * Career progression (the technical track & the management track)
 * Negotiation (pay, parking or gym perks, more WFH days, learning and certification stipends...)
-* [Keeping and building a code snippet library](gist.github.com/) - curated pieces of code for Python, Bash...
+* [Keeping and building a code snippet library](https://gist.github.com/) - curated pieces of code for Python, Bash...
 
 ### Day 2
 
@@ -249,6 +249,13 @@ Book recommendations:
 * Utils: `whois`, `nslookup` & DNS basics (A-record), `iftop`, `tcpdump`
 * [Shodan](https://www.shodan.io/) & [Honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
 
+### Day 3
+
+* IPv4 vs. IPv6
+* CIDR
+* VPC, Subnets, Avaiability Zone, Regions
+* How VPC can connect together
+* The concept of CDN in an example related to Netflix content distribution
 
 ### Day 5
 * Friday: Good Friday (No class)
