@@ -28,7 +28,7 @@ Each group chooses their top 3 utils and talks about them to the class.
 + Wiremu - Cointop , haxor news, Whoami & Whereami
 * Andy Leung - Piu-piu further, tiptop, shallow-backup
 * Robbie Erkes - youtube-dl, wttr.in, 
-* Nick C - Rtv, piu-piu, progress
+* Nick C - Buku, Rtv, piu-piu, progress
 * allison - ansiweather, fzf, navi
 * SHeLDoN - Arkanoid/Sokoban, Desk, Gifgen
 * Lewis - speedtest-cli, htop, youtube-dl, bpytop
