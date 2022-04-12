@@ -239,7 +239,7 @@ Book recommendations:
 * Introduce network layers, highlight layer 4 (TCP and UDP) and layer 7 (HTTP)
 * Connection vs. Connectionless (session-less) protocol
 * Binary & Hexadecimal - [Numbering Systems - Organic Chemistry Tutor](https://www.youtube.com/watch?v=FFDMzbrEXaE)
-* [Endianness - Computerphile](https://www.youtube.com/watch?v=NcaiHcBvDR4)
+* [Endianness - Wikipedia](https://en.wikipedia.org/wiki/Endianness) - [Endianness - Computerphile](https://www.youtube.com/watch?v=NcaiHcBvDR4)
 * Hex Editors: [HxD - Windows](https://mh-nexus.de/en/hxd/), [Hexinator - Linux](https://hexinator.com/hexinator-linux/), [HexFiend - MacOS](https://hexfiend.com/]
 * [ASCII](https://www.ascii-code.com/)
 * IPv4 Addresses
