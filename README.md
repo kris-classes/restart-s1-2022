@@ -238,7 +238,7 @@ Book recommendations:
 * Bus, Star, Mesh topologies and how you can go hybrid
 * Introduce network layers, highlight layer 4 (TCP and UDP) and layer 7 (HTTP)
 * Connection vs. Connectionless (session-less) protocol
-* Binary & Hexadecimal - [Numbering Systems - Organic Chemistry Tutor](https://www.youtube.com/watch?v=FFDMzbrEXaE)
+* Binary & Hexadecimal - [Hexadecimal to Binary - Organic Chemistry Tutor](https://www.youtube.com/watch?v=D_YC6DSPpQE)
 * [Endianness - Wikipedia](https://en.wikipedia.org/wiki/Endianness) - [Endianness - Computerphile](https://www.youtube.com/watch?v=NcaiHcBvDR4)
 * Hex Editors: [HxD - Windows](https://mh-nexus.de/en/hxd/), [Hexinator - Linux](https://hexinator.com/hexinator-linux/), [HexFiend - MacOS](https://hexfiend.com/]
 * [ASCII](https://www.ascii-code.com/)
@@ -247,7 +247,7 @@ Book recommendations:
 * [Regional Internet Registries](https://en.wikipedia.org/wiki/Regional_Internet_registry)
 * [ROT13 cipher](https://en.wikipedia.org/wiki/ROT13)
 * Utils: `whois`, `nslookup` & DNS basics (A-record), `iftop`, `tcpdump`
-* [Shodan](https://www.shodan.io/)
+* [Shodan](https://www.shodan.io/) & [Honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
 
 
 ### Day 5
