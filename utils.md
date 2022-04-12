@@ -22,7 +22,7 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Alice - youtube-dl, kanban, wego + (pprint if its ok :D )
 * Maria - rebound, bitwise, tty-solitaire
 * Allan - exa, taskwarrior, saws
-* Tahseena - shml,eat, (adding more)
+* Tahseena - shml,eat,xh
 * John - shell_history, tldr, jump (Having some issues.  We'll ge there)
 + Wiremu - Cointop , haxor news, Whoami & Whereami
 * Andy Leung - Piu-piu further, tiptop, shallow-backup
