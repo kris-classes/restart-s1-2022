@@ -1,5 +1,5 @@
 #!/bin/bash
-# Usage: curl https://raw.githubusercontent.com/kris-classes/restart/main/automated.sh | bash
+# Usage: curl https://raw.githubusercontent.com/kris-classes/restart/main/shell_scripts/automated.sh | bash
 #
 curl https://raw.githubusercontent.com/MatthewKlemick/Centos_Scripts/main/re_Start_ascii.sh | bash
 echo "Bash script to install all necessary packages."
