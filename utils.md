@@ -19,7 +19,6 @@ Each group chooses their top 3 utils and talks about them to the class.
 * Matthew Klemick - iponmap, whereami, minesweeper
 * Lou - bat, maza, ls++
 * Eden - Sudocabulary, cmatrix, jump (might change these...)
-* Heaven_Leigh ("ccat , tiptop ,nmtui") going to try :-)
 * Alice - youtube-dl, kanban, wego + (pprint if its ok :D )
 * Maria - rebound, bitwise, tty-solitaire
 * Allan - exa, taskwarrior, saws
@@ -32,4 +31,5 @@ Each group chooses their top 3 utils and talks about them to the class.
 * allison - ansiweather, fzf, navi
 * SHeLDoN - Arkanoid/Sokoban, Desk, Gifgen
 * Lewis - speedtest-cli, htop, youtube-dl, bpytop
+* Heaven - Caffine_NeoFetch_Flameshot
 * Another goes here.  Move down a line when finished
