@@ -262,6 +262,7 @@ Book recommendations:
 * [List of assigned /8 Blocks assigned to RIR's](https://en.wikipedia.org/wiki/List_of_assigned_/8_IPv4_address_blocks)
 * [ipcalc](http://jodies.de/ipcalc) for CIDR & Subnetting
 * `whois`ing IP ranges from [countryipblocks.net](https://www.countryipblocks.net/acl.php) and seeing who owns what.
+* Feynman Technique for understanding and remember something: [Socratica](https://www.youtube.com/watch?v=q-16DPh_VWw), [Thomas Frank](https://www.youtube.com/watch?v=B8V5EfJLX9U)
 
 ### Day 5
 * Friday: Good Friday (No class)
