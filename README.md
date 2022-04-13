@@ -256,6 +256,12 @@ Book recommendations:
 * VPC, Subnets, Avaiability Zone, Regions
 * How VPC can connect together
 * The concept of CDN in an example related to Netflix content distribution
+* History of IP Address allocation
+* Classful Addressing
+* [IPv4 Address Exhaustion - Wikipedia](https://en.wikipedia.org/wiki/IPv4_address_exhaustion)
+* [List of assigned /8 Blocks assigned to RIR's](https://en.wikipedia.org/wiki/List_of_assigned_/8_IPv4_address_blocks)
+* [ipcalc](http://jodies.de/ipcalc) for CIDR & Subnetting
+* `whois`ing IP ranges from [countryipblocks.net](https://www.countryipblocks.net/acl.php) and seeing who owns what.
 
 ### Day 5
 * Friday: Good Friday (No class)
