@@ -270,6 +270,7 @@ Book recommendations:
 * REST vs. gRPC vs. SOAP
 * JSON vs. dictionary
 * JSON vs. XML vs. Protobuf
+* Building an IP Subnetting calculator API with Python, pytest, and FastAPI. 
 
 ### Day 5
 * Friday: Good Friday (No class)
