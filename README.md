@@ -264,6 +264,13 @@ Book recommendations:
 * `whois`ing IP ranges from [countryipblocks.net](https://www.countryipblocks.net/acl.php) and seeing who owns what.
 * Feynman Technique for understanding and remember something: [Socratica](https://www.youtube.com/watch?v=q-16DPh_VWw), [Thomas Frank](https://www.youtube.com/watch?v=B8V5EfJLX9U)
 
+### Day 4
+
+* Private, Partnered (Paid), and Public APIs
+* REST vs. gRPC vs. SOAP
+* JSON vs. dictionary
+* JSON vs. XML vs. Protobuf
+
 ### Day 5
 * Friday: Good Friday (No class)
 
