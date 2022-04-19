@@ -290,6 +290,7 @@ Book recommendations:
 * [Wireshark](https://www.wireshark.org/)
 * [Tom7 - Using ICMP as a hard drive for SIGBOVIK'22](https://youtu.be/JcJSW7Rprio?t=146)
 * [NetworkChuck - NAT](https://www.youtube.com/watch?v=8bhvn9tQk8o)
+* [Professor Messer - OSI Model](https://www.youtube.com/watch?v=owDh6FNJUog&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G&index=2)
 * [Professor Messer - Spoofing](https://www.youtube.com/watch?v=jUWgEowyvJE&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G&index=74)
 
 # Week 6
