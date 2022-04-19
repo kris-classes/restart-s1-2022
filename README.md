@@ -289,6 +289,8 @@ Book recommendations:
 * Request For Comments (RFC's - Documents used for describing protocol specifications among other things)
 * [Wireshark](https://www.wireshark.org/)
 * [Tom7 - Using ICMP as a hard drive for SIGBOVIK'22](https://youtu.be/JcJSW7Rprio?t=146)
+* [NetworkChuck - NAT](https://www.youtube.com/watch?v=8bhvn9tQk8o)
+* [Professor Messer - Spoofing](https://www.youtube.com/watch?v=jUWgEowyvJE&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G&index=74)
 
 # Week 6
 * Topics covered will be added here.
