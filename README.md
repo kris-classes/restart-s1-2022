@@ -276,9 +276,19 @@ Book recommendations:
 * Friday: Good Friday (No class)
 
 # Week 5
-* Topics covered will be added here.
-
-Monday: Easter Monday (No class)
+### Day 1 (Tuesday, no class on Easter Monday)
+* Review of the following networking topics:
+* OSI Model & TCP/IP Model
+* Network Topology
+* Ethernet and Switches (vs Hubs)
+* Media Access Control (MAC) addresses
+* Address Routing Protocol (ARP): Requests, Responses, and Spoofing/Poisoning
+* Spearphishing and some OSINT
+* Internet Control Message Protocol (ICMP, used for pings). Time To Live (TTL)
+* Network Address Translation (NAT)
+* Request For Comments (RFC's - Documents used for describing protocol specifications among other things)
+* [Wireshark](https://www.wireshark.org/)
+* [Tom7 - Using ICMP as a hard drive for SIGBOVIK'22](https://youtu.be/JcJSW7Rprio?t=146)
 
 # Week 6
 * Topics covered will be added here.
