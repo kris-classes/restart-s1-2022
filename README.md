@@ -279,6 +279,9 @@ Book recommendations:
 ### Day 1 (Tuesday, no class on Easter Monday)
 * Review of the following networking topics:
 * OSI Model & TCP/IP Model
+* Example: VPN -> OSI Layer 3 tunneling to by pass IP and domain name restriction
+* Example: Network firewall -> OSI Layer 4, block IP address range and port range
+* Example: Application firewall -> OSI Layer 7, looking at body of requests to intercept application level attack such as SQL injection
 * Network Topology
 * Ethernet and Switches (vs Hubs)
 * Media Access Control (MAC) addresses
