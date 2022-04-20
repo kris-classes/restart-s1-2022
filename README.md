@@ -297,7 +297,9 @@ Book recommendations:
 * [Professor Messer - Spoofing](https://www.youtube.com/watch?v=jUWgEowyvJE&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G&index=74)
 
 ### Day 2
-* More VPC & Subnets
+* More VPC & Subnets, NAT, Internet Gateway, Security Group (layer 4 firewall)
+* Public subnet, private subnet
+* Security basics: Encryption in transit, encryption at rest, intelligent threat detection, anti virus/malware software
 * Bitwise Operators: NOT `~`, AND `&`, OR `|`, XOR `^`, Shift-Left `<<`, Shift-Right `>>`, and Rotate Left/Right (no operator in Python).
 * Subnetting deep dive.
 * [SubnettingPractice.com](https://subnettingpractice.com/)
