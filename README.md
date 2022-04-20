@@ -296,6 +296,12 @@ Book recommendations:
 * [Professor Messer - OSI Model](https://www.youtube.com/watch?v=owDh6FNJUog&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G&index=2)
 * [Professor Messer - Spoofing](https://www.youtube.com/watch?v=jUWgEowyvJE&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G&index=74)
 
+### Day 2
+* More VPC & Subnets
+* Bitwise Operators: NOT `~`, AND `&`, OR `|`, XOR `^`, Shift-Left `<<`, Shift-Right `>>`, and Rotate Left/Right (no operator in Python).
+* Subnetting deep dive.
+* [SubnettingPractice.com](https://subnettingpractice.com/)
+
 # Week 6
 * Topics covered will be added here.
 
