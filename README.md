@@ -308,6 +308,15 @@ Book recommendations:
 * Emerging networks: 5G, long range BlueTooth, IoT networks and applications
 * VPC lab demonstration for creating VPC, Subnets, and NAT Gateway - Lab 52 in Modules
 * Preparing for Interviews: Technical (technology you are learning vs. technology you know vs. similar technology you know vs. technology you cannot relate), and Behavioral (including scenarios based - tell a time me when you run into a conflict with co-worker, and open ended questions - tell me where you will be in 5 years time)
+* Files
+* Python's `with` keyword (context manager basics) and where you want to use it.
+* Windows Registry
+* Structs (examples in different programming languages)
+* Classes & Objects / OOP Basics (`__init__ method`, `self`, `methods`, basic inheritance).
+
+### Day 4
+* To be added
+
 
 # Week 6
 * Topics covered will be added here.
