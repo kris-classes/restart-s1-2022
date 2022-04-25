@@ -315,7 +315,7 @@ Book recommendations:
 * Classes & Objects / OOP Basics (`__init__ method`, `self`, `methods`, basic inheritance).
 
 ### Day 4
-* To be added
+* Install Node.js, create React.js app with `npx create-react-app my-app`
 
 
 # Week 6
