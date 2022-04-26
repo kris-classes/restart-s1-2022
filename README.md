@@ -317,14 +317,16 @@ Book recommendations:
 ### Day 4
 * Install Node.js, create React.js app with `npx create-react-app my-app`
 
-
 # Week 6
-* Topics covered will be added here.
 
 Monday: ANZAC Day (No class)
 
 ### Day 1
 * More React.js - started building a TODO App
+* NodeJS & npm basics
+* [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+* JS Basics: `var` vs `let` & `const`, defining `function`s
+* Creating simple stateless components and basic use of `props`.
 
 # Week 7
 * Topics covered will be added here.
