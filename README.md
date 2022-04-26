@@ -323,6 +323,9 @@ Book recommendations:
 
 Monday: ANZAC Day (No class)
 
+### Day 1
+* More React.js - started building a TODO App
+
 # Week 7
 * Topics covered will be added here.
 
