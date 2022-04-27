@@ -328,6 +328,13 @@ Monday: ANZAC Day (No class)
 * JS Basics: `var` vs `let` & `const`, defining `function`s
 * Creating simple stateless components and basic use of `props`.
 
+### Day 2
+* Nick: ?
+* More ReactJS
+* CSS: id vs classes
+* Threads, Multiprocessing
+* Intro to async/await and `fetch()`
+
 # Week 7
 * Topics covered will be added here.
 
