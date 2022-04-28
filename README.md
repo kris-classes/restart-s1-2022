@@ -329,11 +329,14 @@ Monday: ANZAC Day (No class)
 * Creating simple stateless components and basic use of `props`.
 
 ### Day 2
-* Nick: ?
-* More ReactJS
+* ReactJS: `useState()` hooks, onClick events, event handler functions, events in React, create a counter with React
 * CSS: id vs classes
 * Threads, Multiprocessing
 * Intro to async/await and `fetch()`
+
+### Day 3
+* ReactJS: `useRef()` hooks, get values out of a ref `name = myRef.current.value`, change value of element linked to ref `myRef.current.value = "new value"`, deconstructing a JavaScript array (only in ES6 JSX) with `new_list = ["new_item", ...my_list]`, validating input within a handler functions, `list.map()` to create a list of components
+* Building a simple Todo list
 
 # Week 7
 * Topics covered will be added here.
