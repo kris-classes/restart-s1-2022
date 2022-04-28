@@ -338,6 +338,8 @@ Monday: ANZAC Day (No class)
 * ReactJS: `useRef()` hooks, get values out of a ref `name = myRef.current.value`, change value of element linked to ref `myRef.current.value = "new value"`, deconstructing a JavaScript array (only in ES6 JSX) with `new_list = ["new_item", ...my_list]`, validating input within a handler functions, `list.map()` to create a list of components
 * Building a simple Todo list
 * Connecting React frontend to FastAPI backend
+* [FastAPI - Cross-Origin Resource Sharing (CORS)](https://fastapi.tiangolo.com/tutorial/cors/)
+* [Cross-Origin Resource Sharing (CORS) MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) - Recommended reading
 
 # Week 7
 * Topics covered will be added here.
