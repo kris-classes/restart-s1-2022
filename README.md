@@ -28,6 +28,12 @@
 
 # Week 1
 
+## Core Topics
+* Hardware Basics
+* Virtual Machine Basics
+* Database Basics
+* Cloud Service Models (IaaS, PaaS, SaaS, FaaS)
+
 ### Day 1
 * Basic Computing Concepts
 * Brief history of computing & operating systems
@@ -74,6 +80,11 @@
 * Takes input from console `input()`
 
 # Week 2
+
+## Core Topics
+* Python Basics
+* Git Basics
+
 ### Day 1
 * Python: Lists `my_list = [1, "hello", 3.14]`, Tuples `my_tuple = (4, "blah", 1.23)`
 * Functions (`def my_function():`)
@@ -136,6 +147,10 @@
 * rewrite git history, squash N number of commits history with `git rebase -i HEAD~N`
 
 # Week 3
+
+## Core Topics
+* Linux Basics (Filesystem layout, navigating, working with files/processes)
+
 ### Day 1
 * Kernel / Daemons
 * Python Revision
@@ -202,6 +217,9 @@ Book recommendations:
 * https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119
 
 # Week 4
+
+## Core Topics
+* Networking Basics: Switches, Routers, IP addresses, Ports, Subnetting
 
 ### Day 1
 * Revision
@@ -276,6 +294,10 @@ Book recommendations:
 * Friday: Good Friday (No class)
 
 # Week 5
+
+## Core Topics
+* More Networking Basics: OSI & TCP/IP Models, IPv4 Subnetting
+
 ### Day 1 (Tuesday, no class on Easter Monday)
 * Review of the following networking topics:
 * OSI Model & TCP/IP Model
@@ -319,6 +341,10 @@ Book recommendations:
 
 # Week 6
 
+## Core Topics
+* HTML, CSS, and JavaScript Basics
+* ReactJS Basics (stateless & stateful components)
+
 Monday: ANZAC Day (No class)
 
 ### Day 1
@@ -349,7 +375,10 @@ Monday: ANZAC Day (No class)
 * Homework: create a delete button on the React.js app, and make sure that all data is clear, test by refreshing the web browser
 
 # Week 7
-* Topics covered will be added here.
+
+## Core Topics
+* Database Basics
+* Security Basics
 
 
 # Week 8
