@@ -31,7 +31,7 @@
 ## Core Topics
 * Hardware Basics
 * Virtual Machine Basics
-* Database Basics
+* Database Concepts
 * Cloud Service Models (IaaS, PaaS, SaaS, FaaS)
 
 ### Day 1
