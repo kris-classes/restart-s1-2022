@@ -219,7 +219,7 @@ Book recommendations:
 # Week 4
 
 ## Core Topics
-* Networking Basics: Switches, Routers, IP addresses, Ports, Subnetting
+* Networking Basics: Switches, Routers, TCP vs UDP, IP addresses, Ports
 
 ### Day 1
 * Revision
