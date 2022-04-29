@@ -341,6 +341,13 @@ Monday: ANZAC Day (No class)
 * [FastAPI - Cross-Origin Resource Sharing (CORS)](https://fastapi.tiangolo.com/tutorial/cors/)
 * [Cross-Origin Resource Sharing (CORS) MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) - Recommended reading
 
+### Day 4
+* Interview practice
+* ReactJS: `useEffect()`, using `useEffect` to react to change of any particular state, if `useEffect` does not subscribe to anything -> will run once in the first render -> use this to initialize all data
+* FastAPI: backend API with `GET request` to get data out of a `.json` file, and `POST request` to update the `.json` file
+* Combine ReactJS + FastAPI: the simple Todo web app that can fetch initial data from file, and add more data to file. Reopenning the app will not lose data
+* Homework: create a delete button on the React.js app, and make sure that all data is clear, test by refreshing the web browser
+
 # Week 7
 * Topics covered will be added here.
 
