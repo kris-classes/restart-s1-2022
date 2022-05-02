@@ -380,6 +380,11 @@ Monday: ANZAC Day (No class)
 * Database Basics
 * Security Basics
 
+### Day 1
+* Revision: Linux, Git & GitHub, React, Parallels between Python & JavaScript, HTTP GET/POST, API setup
+* Database Basics
+
+### Day 2
 
 # Week 8
 * Topics covered will be added here.
