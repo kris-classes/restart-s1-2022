@@ -385,6 +385,14 @@ Monday: ANZAC Day (No class)
 * Database Basics
 
 ### Day 2
+* SQLite
+* [SQLite Browser](https://sqlitebrowser.org/)
+* SQL: `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`
+* Connecting database to API
+* [Computerphile - The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY)
+* Data Modeling Basics & [Entity-Relationship Diagrams](https://www.guru99.com/er-diagram-tutorial-dbms.html)
+* Relations: One-to-One, Many-to-One/One-to-Many, Many-to-Many, Cardinality
+* [Crypto Museum](https://cryptomuseum.com/)
 
 # Week 8
 * Topics covered will be added here.
