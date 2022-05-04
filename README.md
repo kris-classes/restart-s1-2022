@@ -396,16 +396,24 @@ Monday: ANZAC Day (No class)
 
 ### Day 3
 * SQL string searching with `LIKE`
-- get data from multiple tables with `JOIN`
-- table short names
-- multiple `JOIN`
-- multiple `JOIN` with conditions `WHERE`
+* get data from multiple tables with `JOIN`
+* table short names
+* multiple `JOIN`
+* multiple `JOIN` with conditions `WHERE`
 * [JetBrains DataGrip - Free for Students](https://www.jetbrains.com/datagrip/)
 * Cryptography: Brief History, Ciphers (Caesar, Polybius, Cipher Machines), Feistel Network
 * XOR operation, Block vs Stream Ciphers, Symmetric vs Asymmetric (Public Key) Cryptography
 * [The Codebreakers Book by David Kahn for more history](https://archive.org/details/B-001-001-264)
 * Certificate Authority Basics (and DigiNotar/Comodo hacks), browsers Chain of Trust
 * Hashing Basics (Block size, Digest Size, MD5 / collisions, Pigeon-hole Principle, SHA3 contest)
+
+### Day 4
+* table relationships, dependency, order for adding and removing entries for inter-dependent tables (`ADD artists -> albums -> tracks` and `DELETE tracks -> albums -> artists`)
+* `INSERT INTO` sql statement
+* `DELETE` sql statement
+* Back to React homework: button to remove all contents from Todo List
+* Solving duplicate key problem for a List of `<div>`
+
 
 # Week 8
 * Topics covered will be added here.
