@@ -395,7 +395,11 @@ Monday: ANZAC Day (No class)
 * [Crypto Museum](https://cryptomuseum.com/)
 
 ### Day 3
-* SQL `JOIN`
+* SQL string searching with `LIKE`
+- get data from multiple tables with `JOIN`
+- table short names
+- multiple `JOIN`
+- multiple `JOIN` with conditions `WHERE`
 * [JetBrains DataGrip - Free for Students](https://www.jetbrains.com/datagrip/)
 * Cryptography: Brief History, Ciphers (Caesar, Polybius, Cipher Machines), Feistel Network
 * XOR operation, Block vs Stream Ciphers, Symmetric vs Asymmetric (Public Key) Cryptography
