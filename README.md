@@ -394,6 +394,15 @@ Monday: ANZAC Day (No class)
 * Relations: One-to-One, Many-to-One/One-to-Many, Many-to-Many, Cardinality
 * [Crypto Museum](https://cryptomuseum.com/)
 
+### Day 3
+* SQL `JOIN`
+* [JetBrains DataGrip - Free for Students](https://www.jetbrains.com/datagrip/)
+* Cryptography: Brief History, Ciphers (Caesar, Polybius, Cipher Machines), Feistel Network
+* XOR operation, Block vs Stream Ciphers, Symmetric vs Asymmetric (Public Key) Cryptography
+* [The Codebreakers Book by David Kahn for more history](https://archive.org/details/B-001-001-264)
+* Certificate Authority Basics (and DigiNotar/Comodo hacks), browsers Chain of Trust
+* Hashing Basics (Block size, Digest Size, MD5 / collisions, Pigeon-hole Principle, SHA3 contest)
+
 # Week 8
 * Topics covered will be added here.
 
