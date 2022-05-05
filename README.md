@@ -413,6 +413,9 @@ Monday: ANZAC Day (No class)
 * `DELETE` sql statement
 * Back to React homework: button to remove all contents from Todo List
 * Solving duplicate key problem for a List of `<div>`
+* Guest Speaker: Thiago Canestraro
+* More security: Hashing / Blockchains
+* Recommended platforms for more cybersecurity: [TryHackMe](https://tryhackme.com), [HackTheBox](https://hackthebox.com) (in office hours)
 
 
 # Week 8
