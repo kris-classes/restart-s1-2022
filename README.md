@@ -385,7 +385,7 @@ Monday: ANZAC Day (No class)
 * Database Basics
 
 ### Day 2
-* SQLite
+* SQLite & [SQLite Sample Database](https://www.sqlitetutorial.net/sqlite-sample-database/)
 * [SQLite Browser](https://sqlitebrowser.org/)
 * SQL: `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`
 * Connecting database to API
