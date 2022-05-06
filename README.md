@@ -417,6 +417,12 @@ Monday: ANZAC Day (No class)
 * More security: Hashing / Blockchains
 * Recommended platforms for more cybersecurity: [TryHackMe](https://tryhackme.com), [HackTheBox](https://hackthebox.com) (in office hours)
 
+### Day 5
+* Presentation practice rounds, demo of highlights, sharing own plans with class
+* DataGrip SQL IDE tutorials
+* Revise React.js: `useState`, `useRef`, `useEffect`
+* Todo App with complete checkbox and remove button
+
 
 # Week 8
 * Topics covered will be added here.
