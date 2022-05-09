@@ -425,7 +425,14 @@ Monday: ANZAC Day (No class)
 
 
 # Week 8
-* Topics covered will be added here.
+
+## Core Topics:
+* Cloud
+
+### Day 1
+* Security revision: Symmetric vs Asymmetric (Public Key) Cryptography. Diffie-Hellman & RSA concepts.
+* SSH, `ssh-keygen`, public key authentication (authorized_keys file, private key permissions)
+* AWS Console vs `awscli`
 
 
 # Week 9
