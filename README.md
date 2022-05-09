@@ -430,6 +430,8 @@ Monday: ANZAC Day (No class)
 * Cloud
 
 ### Day 1
+* React.js deployment Part I
+* CI/CD concepts revisit
 * Security revision: Symmetric vs Asymmetric (Public Key) Cryptography. Diffie-Hellman & RSA concepts.
 * SSH, `ssh-keygen`, public key authentication (authorized_keys file, private key permissions)
 * AWS Console vs `awscli`
