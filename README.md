@@ -436,6 +436,12 @@ Monday: ANZAC Day (No class)
 * SSH, `ssh-keygen`, public key authentication (authorized_keys file, private key permissions)
 * AWS Console vs `awscli`
 
+### Day 2
+* More SSH stuff
+* Understanding an HTTP request
+* Security Groups & `iptables` (Firewall) demo
+* netcat & usage of sockets for networked services
+* EC2 overview
 
 # Week 9
 * Topics covered will be added here.
