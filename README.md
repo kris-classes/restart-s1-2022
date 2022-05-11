@@ -443,6 +443,17 @@ Monday: ANZAC Day (No class)
 * netcat & usage of sockets for networked services
 * EC2 overview
 
+### Day 3
+* Secure password storage (bcrypt, scrypt, Argon2)
+* [HaveIBeenPwned](https://haveibeenpwned.com/)
+* Digital signature basics
+* DNS and `dig`: (A, AAAA, CNAME, NS, MX, TXT, PTR records)
+* Brief mention of Amazon SES (Simple Email Service)
+* Containers Concepts & Docker installation
+
+### Day 4
+* Deploying a static site to S3
+
 # Week 9
 * Topics covered will be added here.
 
