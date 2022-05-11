@@ -437,6 +437,7 @@ Monday: ANZAC Day (No class)
 * AWS Console vs `awscli`
 
 ### Day 2
+* React.js deployment Part II (folder deployment_day_1)
 * More SSH stuff
 * Understanding an HTTP request
 * Security Groups & `iptables` (Firewall) demo
@@ -444,6 +445,7 @@ Monday: ANZAC Day (No class)
 * EC2 overview
 
 ### Day 3
+* React.js & FastAPI deployment Part III (folder deployment_day_1)
 * Secure password storage (bcrypt, scrypt, Argon2)
 * [HaveIBeenPwned](https://haveibeenpwned.com/)
 * Digital signature basics
@@ -452,7 +454,7 @@ Monday: ANZAC Day (No class)
 * Containers Concepts & Docker installation
 
 ### Day 4
-* Deploying a static site to S3
+* Deploying a static site to S3 Part IV (folder deployment_day_2)
 
 # Week 9
 * Topics covered will be added here.
