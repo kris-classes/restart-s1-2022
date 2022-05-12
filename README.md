@@ -455,6 +455,10 @@ Monday: ANZAC Day (No class)
 
 ### Day 4
 * Deploying a static site to S3 Part IV (folder deployment_day_2)
+* Guest Speaker: Ash
+* EC2 deep dive
+* [AWS Cost Calculator](https://calculator.aws/)
+* RDS & ElastiCache brief mention
 
 # Week 9
 * Topics covered will be added here.
