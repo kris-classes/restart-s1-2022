@@ -460,6 +460,13 @@ Monday: ANZAC Day (No class)
 * [AWS Cost Calculator](https://calculator.aws/)
 * RDS & ElastiCache brief mention
 
+### Day 5
+* Linkedin workshop
+* Docker: build and run
+* Deploying a FastAPI app to Docker
+* Docker port mapping
+* Homework: deploy React.js from `react_day_6` with Docker, entry point is using `serve`
+
 # Week 9
 * Topics covered will be added here.
 
