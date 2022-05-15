@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  backend:
+    build: ../deployment_day_3_docker
+    ports:
+      - "8000:8001"
+
+  frontend:
+    build: ./
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend

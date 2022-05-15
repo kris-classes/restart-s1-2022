@@ -468,6 +468,11 @@ Monday: ANZAC Day (No class)
 * Homework: deploy React.js from `react_day_6` with Docker, entry point is using `serve`
 
 # Week 9
+
+### Day 1:
+* Deploy React.js from `react_day_6` with Docker, entry point is using `serve`
+* Docker Compose intro 
+* Environment variable intro
 ## Core Topics:
 * Cloud
 
