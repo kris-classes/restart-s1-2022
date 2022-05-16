@@ -468,13 +468,16 @@ Monday: ANZAC Day (No class)
 * Homework: deploy React.js from `react_day_6` with Docker, entry point is using `serve`
 
 # Week 9
+## Core Topics:
+* Cloud
 
 ### Day 1:
 * Deploy React.js from `react_day_6` with Docker, entry point is using `serve`
 * Docker Compose intro 
 * Environment variable intro
-## Core Topics:
-* Cloud
+* "Serverless" Computing with ([AWS Lambda](https://aws.amazon.com/lambda/))
+* Different triggers for Lambda
+* [Serverless Examples - FFMpeg to GIF](https://github.com/serverless/examples/tree/v3/aws-ffmpeg-layer) - Supplementary. Not required for the course.
 
 # Week 10
 * Topics covered will be added here.
