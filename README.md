@@ -471,13 +471,18 @@ Monday: ANZAC Day (No class)
 ## Core Topics:
 * Cloud
 
-### Day 1:
+### Day 1
 * Deploy React.js from `react_day_6` with Docker, entry point is using `serve`
 * Docker Compose intro 
 * Environment variable intro
 * "Serverless" Computing with ([AWS Lambda](https://aws.amazon.com/lambda/))
 * Different triggers for Lambda
 * [Serverless Examples - FFMpeg to GIF](https://github.com/serverless/examples/tree/v3/aws-ffmpeg-layer) - Supplementary. Not required for the course.
+
+### Day 2
+* More deployment with Docker
+* Virtual Private Cloud (VPC)
+* Infrastructure as Code (IaC) Concepts (CloudFormation, Terraform, Pulumi)
 
 # Week 10
 * Topics covered will be added here.
