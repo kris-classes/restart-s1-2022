@@ -481,7 +481,7 @@ Monday: ANZAC Day (No class)
 
 ### Day 2
 * More deployment with Docker
-* Virtual Private Cloud (VPC)
+* Virtual Private Cloud (VPC), Subnets, Route tables, Internet Gateways & deploying Web/Database servers to different subnets
 * Infrastructure as Code (IaC) Concepts (CloudFormation, Terraform, Pulumi)
 
 # Week 10
