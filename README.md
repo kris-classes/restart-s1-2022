@@ -484,6 +484,10 @@ Monday: ANZAC Day (No class)
 * Virtual Private Cloud (VPC), Subnets, Route tables, Internet Gateways & deploying Web/Database servers to different subnets
 * Infrastructure as Code (IaC) Concepts (CloudFormation, Terraform, Pulumi)
 
+### Day 3
+* More IaC: Pulumi & CloudFormation
+* S3 & S3 Glacier
+
 # Week 10
 * Topics covered will be added here.
 
