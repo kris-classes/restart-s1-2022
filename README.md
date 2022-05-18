@@ -487,6 +487,7 @@ Monday: ANZAC Day (No class)
 ### Day 3
 * More IaC: Pulumi & CloudFormation
 * S3 & S3 Glacier
+* Python virtualenvs (`python -m venv venv` and `source venv/bin/activate`)
 
 # Week 10
 * Topics covered will be added here.
