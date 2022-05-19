@@ -489,6 +489,15 @@ Monday: ANZAC Day (No class)
 * S3 & S3 Glacier
 * Python virtualenvs (`python -m venv venv` and `source venv/bin/activate`)
 
+### Day 4
+* Issue Tracking & Project Management
+* Assignment Tips
+* PowerShell
+* EC2 Deployment & Elastic Block Store (EBS) Basics
+
+### Day 5
+* TODO
+
 # Week 10
 * Topics covered will be added here.
 
