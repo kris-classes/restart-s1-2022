@@ -539,6 +539,8 @@ Monday: Queen's Birthday (No class)
 * [ ] Storage Gateway
 
 # Advanced services to cover to cover in Week 9-12:
+* [ ] SNS
+* [ ] SQS
 * [ ] CloudWatch Logs
 * [x] CloudTrail
 * [ ] Organizations
