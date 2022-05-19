@@ -490,13 +490,18 @@ Monday: ANZAC Day (No class)
 * Python virtualenvs (`python -m venv venv` and `source venv/bin/activate`)
 
 ### Day 4
+* AWS IAM: User, Policy (Effect, Action, Resource), Role (User, Service, Cross Account)
+* AWS CloudTrail: all API calls to AWS account are saved here
 * Issue Tracking & Project Management
 * Assignment Tips
 * PowerShell
 * EC2 Deployment & Elastic Block Store (EBS) Basics
 
 ### Day 5
-* TODO
+* System Manager
+* CloudWatch Alarm
+* Auto Scaling Group
+* Elastic Load Balancer
 
 # Week 10
 * Topics covered will be added here.
@@ -508,3 +513,36 @@ Monday: ANZAC Day (No class)
 * Topics covered will be added here.
 
 Monday: Queen's Birthday (No class)
+
+# More AWS services to cover in Week 9-12:
+* [x] EC2
+* [x] IAM
+* [x] Lambda
+* [x] S3
+* [x] Virtual Private Cloud (VPC), Subnets, Route tables, Internet Gateways
+* [ ] System Manager
+* [ ] CloudWatch Alarms
+* [ ] Auto Scaling Group
+* [ ] EC2 Launch Template
+* [ ] Elastic Load Balancer
+* [ ] EBS + EC2 Instance Store
+* [ ] CloudFront
+* [ ] Route 53
+* [ ] Elastic Beanstalk
+* [ ] StepFunction (more Lambda)
+* [ ] RDS/Aurora
+* [ ] RedShift
+* [ ] DMS
+* [ ] EC2 Instance Store
+* [ ] NFS
+* [ ] S3/Glacier
+* [ ] Storage Gateway
+
+# Advanced services to cover to cover in Week 9-12:
+* [ ] CloudWatch Logs
+* [x] CloudTrail
+* [ ] Organizations
+* [ ] Tagging
+* [ ] Billing
+* [ ] Code Commit, Code Build, Code Deploy
+* [x] IaC, CloudFormation
