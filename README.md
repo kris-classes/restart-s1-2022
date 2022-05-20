@@ -537,7 +537,7 @@ Monday: Queen's Birthday (No class)
 * [ ] DMS
 * [ ] EC2 Instance Store
 * [ ] NFS
-* [ ] S3/Glacier
+* [x] S3/Glacier
 * [ ] Storage Gateway
 
 # Advanced services to cover to cover in Week 9-12:
