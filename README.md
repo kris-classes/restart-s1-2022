@@ -498,10 +498,11 @@ Monday: ANZAC Day (No class)
 * EC2 Deployment & Elastic Block Store (EBS) Basics
 
 ### Day 5
-* System Manager
-* CloudWatch Alarm
+* System Manager (Session Manager, Patch Manager, Compliance, Parameter - string and secrets)
+* CloudWatch Metrics (given by default, and also Custom Metrics like RAM and %Drive)
+* CloudWatch Alarms
 * Auto Scaling Group
-* Elastic Load Balancer
+* EC2 Launch Template
 
 # Week 10
 * Topics covered will be added here.
@@ -520,13 +521,14 @@ Monday: Queen's Birthday (No class)
 * [x] Lambda
 * [x] S3
 * [x] Virtual Private Cloud (VPC), Subnets, Route tables, Internet Gateways
-* [ ] System Manager
-* [ ] CloudWatch Alarms
-* [ ] Auto Scaling Group
-* [ ] EC2 Launch Template
+* [x] System Manager (Session Manager, Patch Manager, Compliance, Parameter - string and secrets)
+* [x] CloudWatch Metrics (given by default, and also Custom Metrics like RAM and %Drive)
+* [x] CloudWatch Alarms
+* [x] Auto Scaling Group
+* [x] EC2 Launch Template
 * [ ] Elastic Load Balancer
-* [ ] EBS + EC2 Instance Store
-* [ ] CloudFront
+* [ ] EBS + EC2 Instance Store (IOPS calculation)
+* [ ] CloudFront (how this relate to Load Balancer, S3, and APIGW)
 * [ ] Route 53
 * [ ] Elastic Beanstalk
 * [ ] StepFunction (more Lambda)
