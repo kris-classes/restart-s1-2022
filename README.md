@@ -509,7 +509,6 @@ Monday: ANZAC Day (No class)
 ### Day 1
 
 * AWS ELB - Application vs. Network load balancing
-* EC2 Instance Store vs. EBS backed
 
 
 |                                    | Application Load Balancer                                 | Network Load Balancer                                       |
@@ -547,7 +546,7 @@ Monday: Queen's Birthday (No class)
 * [x] CloudWatch Alarms
 * [x] Auto Scaling Group
 * [x] EC2 Launch Template
-* [ ] Elastic Load Balancer
+* [x] Elastic Load Balancer
 * [ ] EBS + EC2 Instance Store (IOPS calculation)
 * [ ] CloudFront (how this relate to Load Balancer, S3, and APIGW)
 * [ ] Route 53
