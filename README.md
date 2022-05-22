@@ -505,7 +505,28 @@ Monday: ANZAC Day (No class)
 * EC2 Launch Template
 
 # Week 10
-* Topics covered will be added here.
+
+### Day 1
+
+* AWS ELB - Application vs. Network load balancing
+* EC2 Instance Store vs. EBS backed
+
+
+|                                    | Application Load Balancer                                 | Network Load Balancer                                       |
+|------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------|
+| OSI Layer                          | Layer 7                                                   | Layer 4                                                     |
+| Target                             | **Private/Public IP,  EC2 instance in ASG,  Also Lambda** | **Private/Public IP,  EC2 instance in ASG**                 |
+| Protocol                           | HTTP/HTTPs/gRPC                                           | TCP/UDP/TLS                                                 |
+| **LB Static IPs**                  | **No**                                                    | **Yes**                                                     |
+| Session                            | Yes                                                       | Yes (new*)                                                  |
+| Forward source IP                  | Yes (new*)                                                | Yes                                                         |
+| Cross-AZ balancing                 | Yes (by default)                                          | Yes (not by default)                                        |
+| SSL Offloading                     | Yes                                                       | Yes (new*)                                                  |
+| **Authentication**                 | **Yes**                                                   | **No**                                                      |
+| **Private network load balancing** | **Yes**                                                   | **Yes**                                                     |
+| Typical applications 1             | General backend with Application level awareness          | Low latency media streaming (UDP) & connectivity (Gaming)   |
+| Typical applications 2             | Complex authentications supported (SAML/LDAP/AD)          | Use static IPs to share/receive data with partner companies |
+
 
 # Week 11
 * Topics covered will be added here.
@@ -535,7 +556,6 @@ Monday: Queen's Birthday (No class)
 * [ ] RDS/Aurora
 * [ ] RedShift
 * [ ] DMS
-* [ ] EC2 Instance Store
 * [ ] NFS
 * [x] S3/Glacier
 * [ ] Storage Gateway
