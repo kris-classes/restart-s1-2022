@@ -531,6 +531,9 @@ Monday: ANZAC Day (No class)
 * [OWASP Top 10](https://owasp.org/Top10/)
 * MITRE [ATT&CK](https://attack.mitre.org/) & [D3FEND](https://d3fend.mitre.org/)
 * [CyberChef](https://cyberchef.org/) & Decoding Base64-encoded JWT's
+* [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
+* [HackerNews](https://news.ycombinator.com/)
+* [Flow Charts - Group Exercise](https://en.wikipedia.org/wiki/Flowchart)
 
 # Week 11
 * Topics covered will be added here.
