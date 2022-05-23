@@ -527,6 +527,11 @@ Monday: ANZAC Day (No class)
 | Typical applications 2             | Complex authentications supported (SAML/LDAP/AD)          | Use static IPs to share/receive data with partner companies |
 
 
+* Web Security
+* [OWASP Top 10](https://owasp.org/Top10/)
+* MITRE [ATT&CK](https://attack.mitre.org/) & [D3FEND](https://d3fend.mitre.org/)
+* [CyberChef](https://cyberchef.org/) & Decoding Base64-encoded JWT's
+
 # Week 11
 * Topics covered will be added here.
 
