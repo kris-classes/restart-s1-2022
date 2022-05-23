@@ -536,6 +536,13 @@ Monday: ANZAC Day (No class)
 * [Flow Charts - Group Exercise](https://en.wikipedia.org/wiki/Flowchart)
 * [Sourcegraph Dev Tool Time Playlist](https://www.youtube.com/watch?v=GXxvxSlzJdI&list=PL6zLuuRVa1_iDEP4EicZ8972RgyccCRGF&index=2) - Has developers talking about their workflows
 
+### Day 2
+
+* FastAPI body, query string, input parameters
+* Usecases for Docker ENV - default environment variable + dependency versioning
+* EC2 Instance Store vs. EBS backed
+* Type of EBS drives, and appropriate usecases for each
+
 # Week 11
 * Topics covered will be added here.
 
@@ -556,7 +563,7 @@ Monday: Queen's Birthday (No class)
 * [x] Auto Scaling Group
 * [x] EC2 Launch Template
 * [x] Elastic Load Balancer
-* [ ] EBS + EC2 Instance Store (IOPS calculation)
+* [x] EBS + EC2 Instance Store (IOPS calculation)
 * [ ] CloudFront (how this relate to Load Balancer, S3, and APIGW)
 * [ ] Route 53
 * [ ] Elastic Beanstalk
