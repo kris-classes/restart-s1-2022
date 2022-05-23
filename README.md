@@ -534,6 +534,7 @@ Monday: ANZAC Day (No class)
 * [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
 * [HackerNews](https://news.ycombinator.com/)
 * [Flow Charts - Group Exercise](https://en.wikipedia.org/wiki/Flowchart)
+* [Sourcegraph Dev Tool Time Playlist](https://www.youtube.com/watch?v=GXxvxSlzJdI&list=PL6zLuuRVa1_iDEP4EicZ8972RgyccCRGF&index=2) - Has developers talking about their workflows
 
 # Week 11
 * Topics covered will be added here.
