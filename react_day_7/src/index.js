@@ -13,8 +13,8 @@ root.render(
     {/* <App /> */}
     {/* <UseStateExample /> */}
     {/* <UseRefExample /> */}
-    {/* <SimpleTodo /> */}
+    <SimpleTodo />
     {/* <UseEffectExample /> */}
-    <TodoWithBackend />
+    {/* <TodoWithBackend /> */}
   </>
 );
