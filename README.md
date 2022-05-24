@@ -547,6 +547,10 @@ Monday: ANZAC Day (No class)
 * Analysis of log files with Python & UNIX utils
 * Monitoring Basics (more to follow)
 
+### Day 3
+
+* React `props` and `children` (see react_day_8 folder)
+
 # Week 11
 * Topics covered will be added here.
 
