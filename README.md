@@ -542,6 +542,10 @@ Monday: ANZAC Day (No class)
 * Usecases for Docker ENV - default environment variable + dependency versioning
 * EC2 Instance Store vs. EBS backed
 * Type of EBS drives, and appropriate usecases for each
+* SSH/Apache log files, hardening & configuration
+* Sockets & Building network services with Python
+* Analysis of log files with Python & UNIX utils
+* Monitoring Basics (more to follow)
 
 # Week 11
 * Topics covered will be added here.
