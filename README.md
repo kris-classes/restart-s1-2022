@@ -550,6 +550,10 @@ Monday: ANZAC Day (No class)
 ### Day 3
 
 * React `props` and `children` (see react_day_8 folder)
+* More on React
+* Review of UI Component Libraries
+* Review of programming paradigms & concepts
+* [CodeWars](https://www.codewars.com/)
 
 # Week 11
 * Topics covered will be added here.
