@@ -555,6 +555,13 @@ Monday: ANZAC Day (No class)
 * Review of programming paradigms & concepts
 * [CodeWars](https://www.codewars.com/)
 
+### Day 4
+
+* CloudFront and benefits of CDN (security, cost, user experience)
+* CloudFront usecases for caching static content: website hosting, paid content distribution, Lambda at Edge A/B testing, rerouting HTTP to HTTPS
+* CloudFront usecases for caching dynamic content: Load Balancer distribution, HTTP response caching
+* API gateway vs. Load Balancer
+
 # Week 11
 * Topics covered will be added here.
 
@@ -576,7 +583,7 @@ Monday: Queen's Birthday (No class)
 * [x] EC2 Launch Template
 * [x] Elastic Load Balancer
 * [x] EBS + EC2 Instance Store (IOPS calculation)
-* [ ] CloudFront (how this relate to Load Balancer, S3, and APIGW)
+* [x] CloudFront (how this relate to Load Balancer, S3, and APIGW)
 * [ ] Route 53
 * [ ] Elastic Beanstalk
 * [ ] StepFunction (more Lambda)
