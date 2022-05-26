@@ -561,6 +561,9 @@ Monday: ANZAC Day (No class)
 * CloudFront usecases for caching static content: website hosting, paid content distribution, Lambda at Edge A/B testing, rerouting HTTP to HTTPS
 * CloudFront usecases for caching dynamic content: Load Balancer distribution, HTTP response caching
 * API gateway vs. Load Balancer
+* Object Relational Mappings (ORMs)
+* Abstracting interaction with databases
+* Docker revision
 
 # Week 11
 * Topics covered will be added here.
