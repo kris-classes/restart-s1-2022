@@ -565,6 +565,15 @@ Monday: ANZAC Day (No class)
 * Abstracting interaction with databases
 * Docker revision
 
+### Day 5
+
+* Continuation of CloudWatch with CloudWatch Logs (comparable to LogStash + ElasticSearch)
+* ELK stack: LogStash for collecting log files, ElasticSearch for log searching and metrics generation, Kibana for visualizing metrics (comparable to CloudWatch dashboard)
+* Billing console, billing report per product/department with Resource Tag
+* StepFunction state machine, enabling more usecases with Lambda function
+* RDS/Aurora - sync replication thinking of FailOver instance, async replication thinking of Read Replica
+* Queue vs. Topic, Kafka overview concepts - topics, partition, replication factor...
+
 # Week 11
 * Topics covered will be added here.
 
@@ -589,8 +598,8 @@ Monday: Queen's Birthday (No class)
 * [x] CloudFront (how this relate to Load Balancer, S3, and APIGW)
 * [ ] Route 53
 * [ ] Elastic Beanstalk
-* [ ] StepFunction (more Lambda)
-* [ ] RDS/Aurora
+* [x] StepFunction (more Lambda)
+* [x] RDS/Aurora
 * [ ] RedShift
 * [ ] DMS
 * [ ] NFS
@@ -600,10 +609,10 @@ Monday: Queen's Birthday (No class)
 # Advanced services to cover to cover in Week 9-12:
 * [ ] SNS
 * [ ] SQS
-* [ ] CloudWatch Logs
+* [x] CloudWatch Logs
 * [x] CloudTrail
 * [ ] Organizations
-* [ ] Tagging
-* [ ] Billing
+* [x] Tagging
+* [x] Billing
 * [ ] Code Commit, Code Build, Code Deploy
 * [x] IaC, CloudFormation
