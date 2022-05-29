@@ -575,7 +575,13 @@ Monday: ANZAC Day (No class)
 * Queue vs. Topic, Kafka overview concepts - topics, partition, replication factor...
 
 # Week 11
-* Topics covered will be added here.
+
+### Day 1
+
+* Topics vs. Queue revision
+* Publish subcribe (subcribers are not aware of publisher) vs. Observer pattern (the opposite)
+* SNS - push based - has many types of subscriber (email, txt messages, HTTP/HTTPs destination, SQS, Lambda...)
+* SQS - pull based - for simple queue, if item pulled out -> item becomes invisible to other pollers
 
 # Week 12
 * Topics covered will be added here.
@@ -607,8 +613,8 @@ Monday: Queen's Birthday (No class)
 * [ ] Storage Gateway
 
 # Advanced services to cover to cover in Week 9-12:
-* [ ] SNS
-* [ ] SQS
+* [x] SNS
+* [x] SQS
 * [x] CloudWatch Logs
 * [x] CloudTrail
 * [ ] Organizations
