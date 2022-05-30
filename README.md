@@ -610,9 +610,10 @@ Monday: Queen's Birthday (No class)
 * [ ] Elastic Beanstalk
 * [x] StepFunction (more Lambda)
 * [x] RDS/Aurora
+* [x] ElastiCache
 * [ ] RedShift
 * [ ] DMS
-* [ ] NFS
+* [ ] EFS (NFS)
 * [x] S3/Glacier
 * [ ] Storage Gateway
 
