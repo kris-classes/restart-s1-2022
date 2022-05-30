@@ -582,6 +582,10 @@ Monday: ANZAC Day (No class)
 * Publish subcribe (subcribers are not aware of publisher) vs. Observer pattern (the opposite)
 * SNS - push based - has many types of subscriber (email, txt messages, HTTP/HTTPs destination, SQS, Lambda...)
 * SQS - pull based - for simple queue, if item pulled out -> item becomes invisible to other pollers
+* ElastiCache in more depth
+* RDS in more depth
+* [CloudQuest](https://cloudquest.skillbuilder.aws/)
+* [Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
 
 # Week 12
 * Topics covered will be added here.
