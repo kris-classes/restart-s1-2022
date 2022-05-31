@@ -587,6 +587,13 @@ Monday: ANZAC Day (No class)
 * [CloudQuest](https://cloudquest.skillbuilder.aws/)
 * [Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
 
+### Day 2
+* Migration with RDS
+* Route53 & DNS revision
+* [HowDNS.works](https://howdns.works)
+* ElasticBeanstalk
+* More docker revision
+
 # Week 12
 * Topics covered will be added here.
 
@@ -606,8 +613,8 @@ Monday: Queen's Birthday (No class)
 * [x] Elastic Load Balancer
 * [x] EBS + EC2 Instance Store (IOPS calculation)
 * [x] CloudFront (how this relate to Load Balancer, S3, and APIGW)
-* [ ] Route 53
-* [ ] Elastic Beanstalk
+* [x] Route 53
+* [x] Elastic Beanstalk
 * [x] StepFunction (more Lambda)
 * [x] RDS/Aurora
 * [x] ElastiCache
