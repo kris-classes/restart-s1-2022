@@ -596,10 +596,12 @@ Monday: ANZAC Day (No class)
 * More docker revision
 
 ### Day 3
-* Nick: ?
+* Solution Architect discussion & [AWS Reference Architecture Diagrams](https://aws.amazon.com/architecture/reference-architecture-diagrams/)
+* [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)
 * Volumes (EBS, docker, and docker compose)
 * Architecture for full-stack applications w/ both docker compose & AWS (frontend, backend, cache, db, queue)
 * Cloud Practitioner Vouchers & Booking Exam Info
+* Supplementary [Fireside Chat w/ Geoffrey Hinton](https://www.youtube.com/watch?v=UTfQwTuri8Y) relating to designing software after physical/biological systems.
 
 # Week 12
 * Topics covered will be added here.
