@@ -590,9 +590,16 @@ Monday: ANZAC Day (No class)
 ### Day 2
 * Migration with RDS
 * Route53 & DNS revision
+* nginx configuration & examples of using DNS
 * [HowDNS.works](https://howdns.works)
 * ElasticBeanstalk
 * More docker revision
+
+### Day 3
+* Nick: ?
+* Volumes (EBS, docker, and docker compose)
+* Architecture for full-stack applications w/ both docker compose & AWS (frontend, backend, cache, db, queue)
+* Cloud Practitioner Vouchers & Booking Exam Info
 
 # Week 12
 * Topics covered will be added here.
