@@ -636,7 +636,7 @@ Monday: ANZAC Day (No class)
 * Joe Zhu: Using Pulumi to deploy a backend API server to AWS EC2
 * Ben Browning: AWS Lambda
 * Myat Lwin:Using SSH key pair to connect Linux EC2 instance
-* Add your name and topic here.
+* John Simmons:  Amazon Gamelift
 
 Monday: Queen's Birthday (No class)
 
