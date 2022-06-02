@@ -607,6 +607,11 @@ Monday: ANZAC Day (No class)
 * Advanced EC2 features - pricing models (Spot, Reserve, On demands), Placement Group, Host settings
 * DMS - Database Migration Service (one off mode and continuous replication mode, schema migration tool to convert MySQL to PostgreSQL)
 * General AWS limits (S3 APIs, EC2 number of instances, ECS number of tasks...)
+* Presentation Practice
+* Practice Test for Cloud Practitioner exam
+
+### Day 5
+* 
 
 # Week 12
 * Topics covered will be added here.
