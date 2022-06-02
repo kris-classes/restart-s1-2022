@@ -621,7 +621,7 @@ Monday: ANZAC Day (No class)
 * Maria: S3 Static Website Hosting
 * Allan: Demoing usage of `saws`
 * Matthew K: Scraping with BeautifulSoup
-* Matthew R: DB Migration Script
+* Matthew R: Use CDK to create VPC, subnets, internet gateway and attach a new EC2 server to it.
 * Michael J: Automation with python and awscli
 * Jarryd: Usage of Three.js
 * Heaven: CloudWatch
