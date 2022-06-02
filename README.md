@@ -635,7 +635,7 @@ Monday: ANZAC Day (No class)
 * Wiremu: IP crawler that downloads certificates
 * Joe Zhu: Using Pulumi to deploy a backend API server to AWS EC2
 * Ben Browning: AWS Lambda
-* Myat Lwin:Using SSH key pair to connect Linux EC2 instance
+* Myat Lwin:Using SSH key pair to connect Linux EC2 instance*will be changed in last minute*
 * John Simmons:  Amazon Gamelift
 * Alice Kokado: Boto3 Python SDK
 
