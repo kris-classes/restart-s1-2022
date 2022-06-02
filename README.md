@@ -614,7 +614,26 @@ Monday: ANZAC Day (No class)
 * 
 
 # Week 12
-* Topics covered will be added here.
+
+### Presentation Topics:
+
+
+* Maria: S3 Static Website Hosting
+* Allan: Demoing usage of `saws`
+* Matthew K: Scraping with BeautifulSoup
+* Matthew R: DB Migration Script
+* Michael J: Automation with python and awscli
+* Jarryd: Usage of Three.js
+* Heaven: CloudWatch
+* Eden: Creating a portfolio with React
+* Tahseena: Setting up and using load balancers
+* Sheldon: Using IoT TwinMaker
+* Robert: EC2 autoscaling
+* Nisheeth: Using DynamoDB
+* Nick C: Using Athena
+* Asimina: Intro to TypeScript
+* Wiremu: IP crawler that downloads certificates
+* Add your name and topic here.
 
 Monday: Queen's Birthday (No class)
 
