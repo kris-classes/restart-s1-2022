@@ -637,6 +637,7 @@ Monday: ANZAC Day (No class)
 * Ben Browning: AWS Lambda
 * Myat Lwin:Using SSH key pair to connect Linux EC2 instance
 * John Simmons:  Amazon Gamelift
+* Alice Kokado: Boto3 Python SDK
 
 Monday: Queen's Birthday (No class)
 
