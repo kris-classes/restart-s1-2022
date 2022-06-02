@@ -633,7 +633,7 @@ Monday: ANZAC Day (No class)
 * Nick C: Using Athena
 * Asimina: Intro to TypeScript
 * Wiremu: IP crawler that downloads certificates
-* Jin Zhu: Using Pulumi to deploy a backend API server to AWS EC2
+* Joe Zhu: Using Pulumi to deploy a backend API server to AWS EC2
 * Add your name and topic here.
 
 Monday: Queen's Birthday (No class)
