@@ -603,6 +603,11 @@ Monday: ANZAC Day (No class)
 * Cloud Practitioner Vouchers & Booking Exam Info
 * Supplementary [Fireside Chat w/ Geoffrey Hinton](https://www.youtube.com/watch?v=UTfQwTuri8Y) relating to designing software after physical/biological systems.
 
+### Day 4
+* Advanced EC2 features - pricing models (Spot, Reserve, On demands), Placement Group, Host settings
+* DMS - Database Migration Service (one off mode and continuous replication mode, schema migration tool to convert MySQL to PostgreSQL)
+* General AWS limits (S3 APIs, EC2 number of instances, ECS number of tasks...)
+
 # Week 12
 * Topics covered will be added here.
 
@@ -628,7 +633,7 @@ Monday: Queen's Birthday (No class)
 * [x] RDS/Aurora
 * [x] ElastiCache
 * [ ] RedShift
-* [ ] DMS
+* [x] DMS
 * [ ] EFS (NFS)
 * [x] S3/Glacier
 * [ ] Storage Gateway
