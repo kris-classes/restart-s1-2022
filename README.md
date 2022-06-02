@@ -634,6 +634,7 @@ Monday: ANZAC Day (No class)
 * Asimina: Intro to TypeScript
 * Wiremu: IP crawler that downloads certificates
 * Joe Zhu: Using Pulumi to deploy a backend API server to AWS EC2
+* Ben Browning: AWS Lambda
 * Add your name and topic here.
 
 Monday: Queen's Birthday (No class)
