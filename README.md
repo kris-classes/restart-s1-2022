@@ -619,7 +619,7 @@ Monday: ANZAC Day (No class)
 
 
 * Maria: S3 Static Website Hosting
-* Allan: Demoing usage of `saws`
+* Allan: Terraform
 * Matthew K: Scraping with BeautifulSoup
 * Matthew R: Use CDK to create VPC, subnets, internet gateway and attach a new EC2 server to it.
 * Michael J: Automation with python and awscli
