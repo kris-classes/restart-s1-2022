@@ -611,7 +611,10 @@ Monday: ANZAC Day (No class)
 * Practice Test for Cloud Practitioner exam
 
 ### Day 5
-* 
+* More AWS practice exam here [20 free practice questions for all exams](https://explore.skillbuilder.aws/learn/course/9153/play/30290/access-instructions-aws-certification-official-practice-question-sets-english)
+* Advising on topics selection for the marked presentation [source for basic topics](https://aws.amazon.com/getting-started/hands-on/), [source for advanced topics](https://aws.amazon.com/prescriptive-guidance/)
+* AWS CodeCommit, CodeBuild, CodeDeploy, CodePipeline
+* In place deployment, Blue/Green deployment
 
 # Week 12
 
@@ -675,5 +678,5 @@ Monday: Queen's Birthday (No class)
 * [ ] Organizations
 * [x] Tagging
 * [x] Billing
-* [ ] Code Commit, Code Build, Code Deploy
+* [x] Code Commit, Code Build, Code Deploy
 * [x] IaC, CloudFormation
