@@ -630,7 +630,7 @@ Monday: ANZAC Day (No class)
 * Sheldon: Using IoT TwinMaker
 * Robert: EC2 autoscaling
 * Nisheeth: Using DynamoDB
-* Nick C: Using Athena
+* Nick C: Using AWS Kendra 
 * Asimina: Intro to TypeScript
 * Wiremu: IP crawler that downloads certificates
 * Joe Zhu: Using Pulumi to deploy a backend API server to AWS EC2
