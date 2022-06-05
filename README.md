@@ -642,6 +642,7 @@ Monday: ANZAC Day (No class)
 * John Simmons:  IOT keyless entry system
 * Alice Kokado: Boto3 Python SDK
 * Xinpeng Yang: AWS Lightsail
+* Kumar AWS Glacier
 
 Monday: Queen's Birthday (No class)
 
