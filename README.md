@@ -642,7 +642,7 @@ Monday: ANZAC Day (No class)
 * John Simmons:  Build a simple Android app with AWS
 * Alice Kokado: Boto3 Python SDK
 * Xinpeng Yang: AWS Lightsail
-* Kumar AWS Glacier
+* Kumar AWS EC2 Backup
 
 Monday: Queen's Birthday (No class)
 
