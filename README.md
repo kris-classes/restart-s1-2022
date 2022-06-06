@@ -626,7 +626,7 @@ Monday: ANZAC Day (No class)
 * Matthew K: Scraping with BeautifulSoup
 * Matthew R: Use CDK to create VPC, subnets, internet gateway and attach a new EC2 server to it.
 * Michael J: Automation with python and awscli
-* Jarryd: Use of Node.js aws sdk 
+* Jarryd: AWS Amplify
 * Heaven: CloudWatch
 * Eden: Creating a portfolio with React
 * Tahseena: Setting up and using load balancers
