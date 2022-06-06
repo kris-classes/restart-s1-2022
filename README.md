@@ -624,7 +624,7 @@ Monday: ANZAC Day (No class)
 * Maria: S3 Static Website Hosting
 * Allan: Terraform
 * Matthew K: Scraping with BeautifulSoup
-* Matthew R: Using Elastic Beanstalk
+* Matthew R: CDK
 * Michael J: Automation with python and awscli
 * Jarryd: AWS Amplify
 * Heaven: CloudWatch
