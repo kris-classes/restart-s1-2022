@@ -638,7 +638,7 @@ Monday: ANZAC Day (No class)
 * Wiremu: IP crawler that downloads certificates
 * Joe Zhu: Using Pulumi to deploy a backend API server to AWS EC2
 * Ben Browning: AWS Lambda
-* Myat Lwin:Changed the topic and listened to Nick's advice&suggestions*will be added in last minute*
+* Myat Lwin: Create Custom VPC with Public&Private Subnets
 * John Simmons:  AWS Comprehend
 * Alice Kokado: Boto3 Python SDK
 * Xinpeng Yang: AWS Lightsail
