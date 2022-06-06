@@ -639,7 +639,7 @@ Monday: ANZAC Day (No class)
 * Joe Zhu: Using Pulumi to deploy a backend API server to AWS EC2
 * Ben Browning: AWS Lambda
 * Myat Lwin:Changed the topic and listened to Nick's advice&suggestions*will be added in last minute*
-* John Simmons:  Build a simple Android app with AWS
+* John Simmons:  AWS Workspace
 * Alice Kokado: Boto3 Python SDK
 * Xinpeng Yang: AWS Lightsail
 * Kumar AWS EC2 Backup
