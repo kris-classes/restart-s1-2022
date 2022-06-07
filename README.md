@@ -618,8 +618,9 @@ Monday: ANZAC Day (No class)
 
 # Week 12
 
-### Presentation Topics:
+### Monday: Queen's Birthday (No class)
 
+### Day 1 - Presentations:
 
 * Maria: S3 Static Website Hosting
 * Allan: Terraform
@@ -643,8 +644,6 @@ Monday: ANZAC Day (No class)
 * Alice Kokado: Boto3 Python SDK
 * Xinpeng Yang: AWS Lightsail
 * Kumar AWS EC2 Backup
-
-Monday: Queen's Birthday (No class)
 
 # More AWS services to cover in Week 9-12:
 * [x] EC2
