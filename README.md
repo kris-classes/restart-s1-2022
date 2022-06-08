@@ -567,6 +567,7 @@ Monday: ANZAC Day (No class)
 
 ### Day 5
 
+* Meeting with [Spark](https://www.spark.co.nz/), [Datacom](https://datacom.com), and [Leaven](https://www.leaven.co.nz/).
 * Continuation of CloudWatch with CloudWatch Logs (comparable to LogStash + ElasticSearch)
 * ELK stack: LogStash for collecting log files, ElasticSearch for log searching and metrics generation, Kibana for visualizing metrics (comparable to CloudWatch dashboard)
 * Billing console, billing report per product/department with Resource Tag
