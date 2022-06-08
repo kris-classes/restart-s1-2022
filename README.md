@@ -645,6 +645,11 @@ Monday: ANZAC Day (No class)
 * Xinpeng Yang: AWS Lightsail
 * Kumar AWS EC2 Backup
 
+### Day 2
+* More Presentations
+* Another Practice Test
+* Meeting with [Sky](https://www.sky.co.nz/)
+
 # More AWS services to cover in Week 9-12:
 * [x] EC2
 * [x] IAM
