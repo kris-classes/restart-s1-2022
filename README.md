@@ -651,6 +651,19 @@ Monday: ANZAC Day (No class)
 * Another Practice Test
 * Meeting with [Sky](https://www.sky.co.nz/)
 
+### Day 3
+* Remaining Presentations
+* Test
+* [Anki](https://apps.ankiweb.net/) - Spaced-Repetition Flash Cards (see the Cloud Practitioner deck in this repo)
+* [DigitalCloud.training - AWS Cloud Practitioner Cheat Sheets](https://digitalcloud.training/category/aws-cheat-sheets/aws-cloud-practitioner/)
+* [AWS.PlainEnglish.io - Cloud Practitioner Study Notes](https://aws.plainenglish.io/aws-cloud-practitioner-study-notes-2021-64fa18b9121b)
+* [Notes for Cloud Practitioner](https://gist.github.com/kkadete/ce7af949c5fef86fa9955ad4873d18da)
+
+### Day 4
+* Revision
+* Assignment help
+* Congratulations!
+
 # More AWS services to cover in Week 9-12:
 * [x] EC2
 * [x] IAM
