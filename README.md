@@ -658,6 +658,7 @@ Monday: ANZAC Day (No class)
 * [DigitalCloud.training - AWS Cloud Practitioner Cheat Sheets](https://digitalcloud.training/category/aws-cheat-sheets/aws-cloud-practitioner/)
 * [AWS.PlainEnglish.io - Cloud Practitioner Study Notes](https://aws.plainenglish.io/aws-cloud-practitioner-study-notes-2021-64fa18b9121b)
 * [Notes for Cloud Practitioner](https://gist.github.com/kkadete/ce7af949c5fef86fa9955ad4873d18da)
+* [FreeCodeCamp - Cloud Practitioner 2020](https://www.youtube.com/watch?v=3hLmDS179YE) - Supplementary video on preparing for CloudPrac exam. Caution: Some things have changed since then.
 
 ### Day 4
 * Revision
